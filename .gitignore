@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+**/tts-packages/
+**/speech_libs/
+**/video_libs/
+**/video-deps/
+node_modules/

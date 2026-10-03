@@ -1,0 +1,83 @@
+{"kind":"deck","id":"pr/lmxj0i","name":"Deck"}
+{"kind":"layout","layoutId":"d0187025-19ea-4ed4-9dda-a53cd197eac0","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"34a384a8-ab63-49cf-862d-68cdc9dffdb9","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/j516ze","slide":1,"title":"Domain and Problem Statement","textShapes":39}
+{"kind":"textbox","id":"sh/fu9sv2hc","slide":1,"text":"Domain and Problem Statement","textPreview":"Domain and Problem Statement","textChars":28,"textLines":1,"bbox":[62,24,1155,54]}
+{"kind":"shape","id":"sh/gvi947yx","slide":1,"bbox":[62,81,1160,3]}
+{"kind":"textbox","id":"sh/1wraxczi","slide":1,"text":"DOMAIN","textPreview":"DOMAIN","textChars":6,"textLines":1,"bbox":[62,96,78,24]}
+{"kind":"textbox","id":"sh/2x0r6hg3","slide":1,"text":"Agentic Artificial Intelligence, Conversational AI, Weather Analytics, Geospatial Visualisation, Speech Technology and Hazard-Awareness Systems","textPreview":"Agentic Artificial Intelligence, Conversational AI, Weather Analytics, Geospatial Visualisation, Speech Technology and Hazard-Awareness S...","textChars":143,"textLines":1,"bbox":[145,94,1075,42]}
+{"kind":"shape","id":"sh/3y9szmho","slide":1,"bbox":[62,144,1160,1]}
+{"kind":"shape","id":"sh/oz29sryt","slide":1,"bbox":[459,164,1,310]}
+{"kind":"shape","id":"sh/p0ba1wze","slide":1,"bbox":[862,164,1,310]}
+{"kind":"textbox","id":"sh/a1kru1gz","slide":1,"text":"PROBLEM STATEMENT","textPreview":"PROBLEM STATEMENT","textChars":17,"textLines":1,"bbox":[62,164,360,28]}
+{"kind":"shape","id":"sh/b2ts3mhk","slide":1,"bbox":[62,196,78,3]}
+{"kind":"textbox","id":"sh/nqts3a1s","slide":1,"text":"Weather information is spread across forecast applications, technical dashboards, map services and separate emergency-alert platforms. Users often need to interpret numerical data without receiving a clear explanation of how the conditions affect their location, activity or travel plans. Most applications provide static results and require manual navigation between screens. Weather GPT addresses this gap through an agentic AI assistant that understands user intent, selects trusted weather and alert sources, analyses the retrieved information and presents relevant guidance through text, voice and interactive maps.","textPreview":"Weather information is spread across forecast applications, technical dashboards, map services and separate emergency-alert platforms. Us...","textChars":620,"textLines":1,"bbox":[62,210,373,250]}
+{"kind":"textbox","id":"sh/mp0ru507","slide":1,"text":"PAIN POINTS","textPreview":"PAIN POINTS","textChars":11,"textLines":1,"bbox":[483,164,340,28]}
+{"kind":"shape","id":"sh/9sba5kjy","slide":1,"bbox":[483,196,58,3]}
+{"kind":"textbox","id":"sh/zm9sza1w","slide":1,"text":"Fragmented information","textPreview":"Fragmented information","textChars":22,"textLines":1,"bbox":[518,207,324,18]}
+{"kind":"textbox","id":"sh/el0rq50b","slide":1,"text":"Current conditions, forecasts, map layers and emergency alerts often appear in separate applications.","textPreview":"Current conditions, forecasts, map layers and emergency alerts often appear in separate applications.","textChars":101,"textLines":1,"bbox":[518,225,324,35]}
+{"kind":"textbox","id":"sh/0ni9sfi1","slide":1,"text":"Difficult interpretation","textPreview":"Difficult interpretation","textChars":24,"textLines":1,"bbox":[518,260,324,18]}
+{"kind":"textbox","id":"sh/jidsbu10","slide":1,"text":"Technical maps, measurements and scientific terms can be difficult for ordinary users to understand.","textPreview":"Technical maps, measurements and scientific terms can be difficult for ordinary users to understand.","textChars":100,"textLines":1,"bbox":[518,278,324,35]}
+{"kind":"textbox","id":"sh/udovatkn","slide":1,"text":"Static interaction","textPreview":"Static interaction","textChars":18,"textLines":1,"bbox":[518,313,324,18]}
+{"kind":"textbox","id":"sh/vexc3yl8","slide":1,"text":"Traditional applications show fixed results and provide limited support for follow-up questions.","textPreview":"Traditional applications show fixed results and provide limited support for follow-up questions.","textChars":96,"textLines":1,"bbox":[518,331,324,35]}
+{"kind":"textbox","id":"sh/hgfe583e","slide":1,"text":"Limited hands-free access","textPreview":"Limited hands-free access","textChars":25,"textLines":1,"bbox":[518,366,324,18]}
+{"kind":"textbox","id":"sh/2h8vedkj","slide":1,"text":"Manual navigation makes weather information less convenient while travelling, working or handling urgent situations.","textPreview":"Manual navigation makes weather information less convenient while travelling, working or handling urgent situations.","textChars":116,"textLines":1,"bbox":[518,384,324,35]}
+{"kind":"textbox","id":"sh/4jqdgn2p","slide":1,"text":"Weak decision support","textPreview":"Weak decision support","textChars":21,"textLines":1,"bbox":[518,419,324,18]}
+{"kind":"textbox","id":"sh/pkze9s3a","slide":1,"text":"Generic forecasts do not explain how weather may affect travel, outdoor work, events or personal safety.","textPreview":"Generic forecasts do not explain how weather may affect travel, outdoor work, events or personal safety.","textChars":104,"textLines":1,"bbox":[518,437,324,35]}
+{"kind":"textbox","id":"sh/yl4v29kf","slide":1,"text":"STAKEHOLDERS","textPreview":"STAKEHOLDERS","textChars":12,"textLines":1,"bbox":[886,164,325,26]}
+{"kind":"shape","id":"sh/jmdcvel0","slide":1,"bbox":[886,194,74,2]}
+{"kind":"textbox","id":"sh/0rupobq9","slide":1,"text":"Weather agencies","textPreview":"Weather agencies","textChars":16,"textLines":1,"bbox":[915,208,125,26]}
+{"kind":"textbox","id":"sh/ypc7m183","slide":1,"text":"Disaster authorities","textPreview":"Disaster authorities","textChars":20,"textLines":1,"bbox":[1078,208,125,26]}
+{"kind":"textbox","id":"sh/8fepsvq5","slide":1,"text":"Local government","textPreview":"Local government","textChars":16,"textLines":1,"bbox":[915,242,125,26]}
+{"kind":"textbox","id":"sh/mdw7ql8f","slide":1,"text":"Researchers and developers","textPreview":"Researchers and developers","textChars":26,"textLines":1,"bbox":[1078,242,125,26]}
+{"kind":"textbox","id":"sh/ojapgrq1","slide":1,"text":"Community groups","textPreview":"Community groups","textChars":16,"textLines":1,"bbox":[915,276,125,26]}
+{"kind":"shape","id":"sh/sfi9ozap","slide":1,"bbox":[886,326,325,1]}
+{"kind":"textbox","id":"sh/tgrax4ba","slide":1,"text":"TARGET USERS","textPreview":"TARGET USERS","textChars":12,"textLines":1,"bbox":[886,344,325,26]}
+{"kind":"shape","id":"sh/6d0rmpsj","slide":1,"bbox":[886,374,64,2]}
+{"kind":"textbox","id":"sh/kby9kzad","slide":1,"text":"General public","textPreview":"General public","textChars":14,"textLines":1,"bbox":[915,385,125,26]}
+{"kind":"textbox","id":"sh/i9gripsn","slide":1,"text":"Farmers and outdoor workers","textPreview":"Farmers and outdoor workers","textChars":27,"textLines":1,"bbox":[1078,385,125,26]}
+{"kind":"textbox","id":"sh/w7y9gfah","slide":1,"text":"Coastal communities","textPreview":"Coastal communities","textChars":19,"textLines":1,"bbox":[915,419,125,26]}
+{"kind":"textbox","id":"sh/zi5szado","slide":1,"text":"Travellers and commuters","textPreview":"Travellers and commuters","textChars":24,"textLines":1,"bbox":[1078,419,125,26]}
+{"kind":"textbox","id":"sh/l4na1kvu","slide":1,"text":"Older and voice-first users","textPreview":"Older and voice-first users","textChars":27,"textLines":1,"bbox":[915,453,221,26]}
+{"kind":"shape","id":"sh/0jetsfe9","slide":1,"bbox":[62,492,1160,1]}
+{"kind":"textbox","id":"sh/n6ps3ad0","slide":1,"text":"KEY CHALLENGES","textPreview":"KEY CHALLENGES","textChars":14,"textLines":1,"bbox":[62,503,1158,28]}
+{"kind":"shape","id":"sh/987a5kvq","slide":1,"bbox":[62,565,40,2]}
+{"kind":"textbox","id":"sh/87ytwful","slide":1,"text":"RELIABLE DATA\nINTEGRATION","textPreview":"RELIABLE DATA | INTEGRATION","textChars":25,"textLines":2,"bbox":[62,574,210,38]}
+{"kind":"textbox","id":"sh/vapc7udw","slide":1,"text":"Weather APIs, geospatial services and official alert feeds may use different formats, update intervals and levels of accuracy.","textPreview":"Weather APIs, geospatial services and official alert feeds may use different formats, update intervals and levels of accuracy.","textChars":126,"textLines":1,"bbox":[62,616,210,68]}
+{"kind":"shape","id":"sh/a9gbypcb","slide":1,"bbox":[289,546,1,137]}
+{"kind":"shape","id":"sh/76twzyx4","slide":1,"bbox":[302,565,40,2]}
+{"kind":"textbox","id":"sh/s72d83ep","slide":1,"text":"AGENT DECISION\nRELIABILITY","textPreview":"AGENT DECISION | RELIABILITY","textChars":26,"textLines":2,"bbox":[302,574,210,38]}
+{"kind":"textbox","id":"sh/t8be18fa","slide":1,"text":"The agent must select the correct tools, interpret results accurately and avoid generating unsupported weather information.","textPreview":"The agent must select the correct tools, interpret results accurately and avoid generating unsupported weather information.","textChars":123,"textLines":1,"bbox":[302,616,210,68]}
+{"kind":"shape","id":"sh/i10v29gn","slide":1,"bbox":[529,546,1,137]}
+{"kind":"shape","id":"sh/k3id4jet","slide":1,"bbox":[542,565,40,2]}
+{"kind":"textbox","id":"sh/54bexofy","slide":1,"text":"LOCATION AND TIME\nAMBIGUITY","textPreview":"LOCATION AND TIME | AMBIGUITY","textChars":27,"textLines":2,"bbox":[542,574,210,38]}
+{"kind":"textbox","id":"sh/2x4fedwr","slide":1,"text":"Incomplete place names and phrases such as “tomorrow evening” must be resolved before retrieving data.","textPreview":"Incomplete place names and phrases such as “tomorrow evening” must be resolved before retrieving data.","textChars":102,"textLines":1,"bbox":[542,616,210,68]}
+{"kind":"shape","id":"sh/3ydw7ixc","slide":1,"bbox":[769,546,1,137]}
+{"kind":"shape","id":"sh/cr6h47y9","slide":1,"bbox":[782,565,40,2]}
+{"kind":"textbox","id":"sh/bqxgv2ho","slide":1,"text":"VERIFIED HAZARD\nINFORMATION","textPreview":"VERIFIED HAZARD | INFORMATION","textChars":27,"textLines":2,"bbox":[782,574,210,38]}
+{"kind":"textbox","id":"sh/qpoz2xg3","slide":1,"text":"Heatwave assessments must follow defined thresholds, while tsunami warnings must come from authorised sources.","textPreview":"Heatwave assessments must follow defined thresholds, while tsunami warnings must come from authorised sources.","textChars":110,"textLines":1,"bbox":[782,616,210,68]}
+{"kind":"shape","id":"sh/pofytczi","slide":1,"bbox":[1009,546,1,137]}
+{"kind":"shape","id":"sh/32dgr2hc","slide":1,"bbox":[1022,565,40,2]}
+{"kind":"textbox","id":"sh/214zyx0r","slide":1,"text":"VOICE AND RESPONSE\nQUALITY","textPreview":"VOICE AND RESPONSE | QUALITY","textChars":26,"textLines":2,"bbox":[1022,574,210,38]}
+{"kind":"textbox","id":"sh/9kzi5wzm","slide":1,"text":"Speech recognition and spoken responses must remain understandable across accents, background noise and unstable connectivity.","textPreview":"Speech recognition and spoken responses must remain understandable across accents, background noise and unstable connectivity.","textChars":126,"textLines":1,"bbox":[1022,616,210,68]}
+{"kind":"image","id":"im/3ut0v6lg","slide":1,"name":"","alt":"Fragmented information icon","bbox":[483,208,25,25]}
+{"kind":"image","id":"im/up0zyhkz","slide":1,"name":"","alt":"Difficult interpretation icon","bbox":[483,261,25,25]}
+{"kind":"image","id":"im/1ovi5g3u","slide":1,"name":"","alt":"Static interaction icon","bbox":[483,314,25,25]}
+{"kind":"image","id":"im/ni90n6ds","slide":1,"name":"","alt":"Limited hands-free access icon","bbox":[483,367,25,25]}
+{"kind":"image","id":"im/0fihsbu1","slide":1,"name":"","alt":"Weak decision support icon","bbox":[483,420,25,25]}
+{"kind":"image","id":"im/2hwfixs3","slide":1,"name":"","alt":"Weather agencies icon","bbox":[886,207,22,22]}
+{"kind":"image","id":"im/4jexk7at","slide":1,"name":"","alt":"Disaster authorities icon","bbox":[1049,207,22,22]}
+{"kind":"image","id":"im/utcfuxsr","slide":1,"name":"","alt":"Local government icon","bbox":[886,241,22,22]}
+{"kind":"image","id":"im/gfuxgnax","slide":1,"name":"","alt":"Researchers and developers icon","bbox":[1049,241,22,22]}
+{"kind":"image","id":"im/6pcvqdsv","slide":1,"name":"","alt":"Community groups icon","bbox":[886,275,22,22]}
+{"kind":"image","id":"im/k3etojeh","slide":1,"name":"","alt":"General public icon","bbox":[886,384,22,22]}
+{"kind":"image","id":"im/adcbi9wf","slide":1,"name":"","alt":"Farmers and outdoor workers icon","bbox":[1049,384,22,22]}
+{"kind":"image","id":"im/wfutkjel","slide":1,"name":"","alt":"Coastal communities icon","bbox":[886,418,22,22]}
+{"kind":"image","id":"im/m9sbe9wj","slide":1,"name":"","alt":"Travellers and commuters icon","bbox":[1049,418,22,22]}
+{"kind":"image","id":"im/t4fy1gra","slide":1,"name":"","alt":"Older and voice-first users icon","bbox":[886,452,22,22]}
+{"kind":"image","id":"im/18zi5g7m","slide":1,"name":"","alt":"RELIABLE DATA INTEGRATION icon","bbox":[62,538,25,25]}
+{"kind":"image","id":"im/x8nex8j6","slide":1,"name":"","alt":"AGENT DECISION RELIABILITY icon","bbox":[302,538,25,25]}
+{"kind":"image","id":"im/kvyx8nih","slide":1,"name":"","alt":"LOCATION AND TIME AMBIGUITY icon","bbox":[542,538,25,25]}
+{"kind":"image","id":"im/q5sb6pgb","slide":1,"name":"","alt":"VERIFIED HAZARD INFORMATION icon","bbox":[782,538,25,25]}
+{"kind":"image","id":"im/zalc3ehs","slide":1,"name":"","alt":"VOICE AND RESPONSE QUALITY icon","bbox":[1022,538,25,25]}
+{"kind":"notes","id":"nt/j516ze","slide":1,"text":""}

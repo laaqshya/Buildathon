@@ -1,0 +1,28 @@
+{"kind":"deck","id":"pr/debvzw","name":"Deck"}
+{"kind":"layout","layoutId":"095f212f-e070-4d1d-b571-cf4fc7d1dc7c","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"2bc6b857-2c93-473e-897b-59e2a8c09f2e","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/kvc6bc","slide":1,"title":"WeatherGPT","textShapes":19}
+{"kind":"textbox","id":"sh/nmxcv614","slide":1,"text":"WeatherGPT","textPreview":"WeatherGPT","textChars":10,"textLines":1,"bbox":[76,49,180,32]}
+{"kind":"textbox","id":"sh/8n6d4b2p","slide":1,"text":"Domain and Problem Statement","textPreview":"Domain and Problem Statement","textChars":28,"textLines":1,"bbox":[76,87,800,57]}
+{"kind":"textbox","id":"sh/9ofuxwju","slide":1,"text":"Weather intelligence for clearer, context-aware decisions","textPreview":"Weather intelligence for clearer, context-aware decisions","textChars":57,"textLines":1,"bbox":[78,148,640,30]}
+{"kind":"shape","id":"sh/yx4vyhk7","slide":1,"bbox":[78,193,1124,0]}
+{"kind":"textbox","id":"sh/zidcrm1s","slide":1,"text":"DOMAIN","textPreview":"DOMAIN","textChars":6,"textLines":1,"bbox":[83,258,150,24]}
+{"kind":"textbox","id":"sh/0jmd0r2d","slide":1,"text":"Weather\nIntelligence","textPreview":"Weather | Intelligence","textChars":20,"textLines":2,"bbox":[82,290,175,96]}
+{"kind":"textbox","id":"sh/lkvutwjy","slide":1,"text":"Users need timely forecasts that translate conditions into practical guidance.","textPreview":"Users need timely forecasts that translate conditions into practical guidance.","textChars":78,"textLines":1,"bbox":[82,403,178,95]}
+{"kind":"shape","id":"sh/itoval0r","slide":1,"bbox":[252,248,650,378]}
+{"kind":"shape","id":"sh/jehc3q1c","slide":1,"bbox":[252,248,650,378]}
+{"kind":"shape","id":"sh/ratojuh4","slide":1,"bbox":[485,336,210,210]}
+{"kind":"textbox","id":"sh/q9knq9gj","slide":1,"text":"Problem\nStatement","textPreview":"Problem | Statement","textChars":17,"textLines":2,"bbox":[508,364,165,58]}
+{"kind":"textbox","id":"sh/dcv6l4za","slide":1,"text":"Weather data often feels scattered, technical, and difficult to act on.","textPreview":"Weather data often feels scattered, technical, and difficult to act on.","textChars":71,"textLines":1,"bbox":[510,426,160,65]}
+{"kind":"textbox","id":"sh/cb25szyp","slide":1,"text":"Scattered\nSources","textPreview":"Scattered | Sources","textChars":17,"textLines":2,"bbox":[312,259,145,127.6]}
+{"kind":"textbox","id":"sh/zedonehg","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[358.4,240,54,54]}
+{"kind":"textbox","id":"sh/ed4nu9gv","slide":1,"text":"People switch between apps, alerts, and search results.","textPreview":"People switch between apps, alerts, and search results.","textChars":55,"textLines":1,"bbox":[477,263,192,88]}
+{"kind":"textbox","id":"sh/1gv6poz6","slide":1,"text":"Low\nContext","textPreview":"Low | Context","textChars":11,"textLines":2,"bbox":[731,290,145,127.6]}
+{"kind":"textbox","id":"sh/0fm5wjyl","slide":1,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[777.4,271,54,54]}
+{"kind":"textbox","id":"sh/nidorehc","slide":1,"text":"A forecast rarely explains what the weather means for a plan.","textPreview":"A forecast rarely explains what the weather means for a plan.","textChars":61,"textLines":1,"bbox":[896,294,192,88]}
+{"kind":"textbox","id":"sh/mh4nytgr","slide":1,"text":"Delayed\nAction","textPreview":"Delayed | Action","textChars":14,"textLines":2,"bbox":[313,515,145,127.6]}
+{"kind":"textbox","id":"sh/i9sz6h4b","slide":1,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[359.4,496,54,54]}
+{"kind":"textbox","id":"sh/ja10fm5w","slide":1,"text":"Users receive weather facts but lack timely next steps.","textPreview":"Users receive weather facts but lack timely next steps.","textChars":55,"textLines":1,"bbox":[478,519,192,88]}
+{"kind":"textbox","id":"sh/kbah8rmh","slide":1,"text":"WeatherGPT\nconverts forecast data into a clear, conversational answer.","textPreview":"WeatherGPT | converts forecast data into a clear, conversational answer.","textChars":70,"textLines":2,"bbox":[919,414,257,123]}
+{"kind":"textbox","id":"sh/5cjihwn2","slide":1,"text":"AI-powered weather assistant","textPreview":"AI-powered weather assistant","textChars":28,"textLines":1,"bbox":[942,559,215,25]}
+{"kind":"notes","id":"nt/kvc6bc","slide":1,"text":"Concept slide based on the supplied layout references. WeatherGPT capability statement is an assumed product framing and should be adapted if the project scope differs."}

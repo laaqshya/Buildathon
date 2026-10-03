@@ -1,0 +1,2164 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/q3pu1i",
+    "id": "q3pu1i",
+    "slide": 1,
+    "layoutId": "89d75665-cf9d-4de9-b872-ad9fa3f9b6db",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2461d66b-0c4f-4e93-8f95-589300e91158",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "89d75665-cf9d-4de9-b872-ad9fa3f9b6db",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2461d66b-0c4f-4e93-8f95-589300e91158",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2461d66b-0c4f-4e93-8f95-589300e91158",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dw72xs7u",
+      "id": "1",
+      "bbox": [
+        80,
+        27,
+        1120,
+        47
+      ],
+      "geometry": "rect",
+      "text": "Existing Solutions vs Our Approach",
+      "textPreview": "Existing Solutions vs Our Approach",
+      "resolvedFontSize": 35,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 35,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Existing Solutions vs Our Approach"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Existing Solutions vs Our Approach",
+          "resolvedTextStyle": {
+            "fontSize": 35,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Existing Solutions vs Our Approach",
+              "fontSize": 35,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtg3mdoj",
+      "id": "2",
+      "bbox": [
+        155,
+        76,
+        970,
+        26
+      ],
+      "geometry": "rect",
+      "text": "How Weather GPT improves weather access, interaction and hazard awareness",
+      "textPreview": "How Weather GPT improves weather access, interaction and hazard awareness",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "How Weather GPT improves weather access, interaction and hazard awareness"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "How Weather GPT improves weather access, interaction and hazard awareness",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "How Weather GPT improves weather access, interaction and hazard awareness",
+              "fontSize": 15,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rupkvipo",
+      "id": "3",
+      "bbox": [
+        535,
+        108,
+        210,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#258B88",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4relk36d",
+      "id": "4",
+      "bbox": [
+        66,
+        128,
+        492,
+        57
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#C95C57",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5s72t87y",
+      "id": "5",
+      "bbox": [
+        722,
+        128,
+        492,
+        57
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#258B88",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ipw3ido7",
+      "id": "6",
+      "bbox": [
+        92,
+        143,
+        438,
+        28
+      ],
+      "geometry": "rect",
+      "text": "EXISTING WEATHER SOLUTIONS",
+      "textPreview": "EXISTING WEATHER SOLUTIONS",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "EXISTING WEATHER SOLUTIONS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "EXISTING WEATHER SOLUTIONS",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "EXISTING WEATHER SOLUTIONS",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3q5krips",
+      "id": "7",
+      "bbox": [
+        748,
+        143,
+        438,
+        28
+      ],
+      "geometry": "rect",
+      "text": "WEATHER GPT APPROACH",
+      "textPreview": "WEATHER GPT APPROACH",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "WEATHER GPT APPROACH"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "WEATHER GPT APPROACH",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WEATHER GPT APPROACH",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onilw76h",
+      "id": "8",
+      "bbox": [
+        587,
+        116,
+        106,
+        553
+      ],
+      "geometry": "rect",
+      "fillColor": "#F4F6F7",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/porm5c72",
+      "id": "9",
+      "bbox": [
+        605,
+        119,
+        70,
+        70
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lw7i5wbq",
+      "id": "10",
+      "bbox": [
+        606,
+        132,
+        68,
+        40
+      ],
+      "geometry": "rect",
+      "text": "VS",
+      "textPreview": "VS",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 30,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "VS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "VS",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "VS",
+              "fontSize": 30,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0vyhwra5",
+      "id": "11",
+      "bbox": [
+        78,
+        203,
+        455,
+        22
+      ],
+      "geometry": "rect",
+      "text": "COMPLEX WEATHER INTERFACES",
+      "textPreview": "COMPLEX WEATHER INTERFACES",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Arial",
+        "color": "#C95C57",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "COMPLEX WEATHER INTERFACES"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "COMPLEX WEATHER INTERFACES",
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Arial",
+            "color": "#C95C57",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "COMPLEX WEATHER INTERFACES",
+              "fontSize": 14.2,
+              "typeface": "Arial",
+              "color": "#C95C57",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zup03mtk",
+      "id": "12",
+      "bbox": [
+        98,
+        230,
+        435,
+        47
+      ],
+      "geometry": "rect",
+      "text": "Technical maps and numerical dashboards make local conditions difficult to interpret.",
+      "textPreview": "Technical maps and numerical dashboards make local conditions difficult to interpret.",
+      "resolvedFontSize": 12.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12.2,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Technical maps and numerical dashboards make local conditions difficult to"
+          },
+          {
+            "index": 2,
+            "text": "interpret."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Technical maps and numerical dashboards make local conditions difficult to interpret.",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Technical maps and numerical dashboards make local conditions difficult to interpret.",
+              "fontSize": 12.2,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytwzuhcz",
+      "id": "13",
+      "bbox": [
+        421,
+        286,
+        112,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsni1wbe",
+      "id": "14",
+      "bbox": [
+        747,
+        203,
+        455,
+        22
+      ],
+      "geometry": "rect",
+      "text": "INTERACTIVE WEATHER INTELLIGENCE",
+      "textPreview": "INTERACTIVE WEATHER INTELLIGENCE",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Arial",
+        "color": "#258B88",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERACTIVE WEATHER INTELLIGENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERACTIVE WEATHER INTELLIGENCE",
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Arial",
+            "color": "#258B88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERACTIVE WEATHER INTELLIGENCE",
+              "fontSize": 14.2,
+              "typeface": "Arial",
+              "color": "#258B88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7ehsrut",
+      "id": "15",
+      "bbox": [
+        747,
+        230,
+        435,
+        47
+      ],
+      "geometry": "rect",
+      "text": "A 3D globe combines live conditions, weather layers and seven-day forecasts.",
+      "textPreview": "A 3D globe combines live conditions, weather layers and seven-day forecasts.",
+      "resolvedFontSize": 12.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12.2,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A 3D globe combines live conditions, weather layers and seven-day"
+          },
+          {
+            "index": 2,
+            "text": "forecasts."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A 3D globe combines live conditions, weather layers and seven-day forecasts.",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A 3D globe combines live conditions, weather layers and seven-day forecasts.",
+              "fontSize": 12.2,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b650zmt8",
+      "id": "16",
+      "bbox": [
+        747,
+        286,
+        112,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5wz6hc3",
+      "id": "17",
+      "bbox": [
+        610,
+        201,
+        60,
+        60
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/254z6hk3",
+      "id": "18",
+      "bbox": [
+        626,
+        213,
+        28,
+        28
+      ],
+      "alt": "INTERFACE comparison icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "f38cf17c-fe52-4e6a-b539-a448a28db37f",
+        "contentType": "image/svg+xml",
+        "byteLength": 480
+      }
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wni14bad",
+      "id": "19",
+      "bbox": [
+        594,
+        266,
+        92,
+        18
+      ],
+      "geometry": "rect",
+      "text": "INTERFACE",
+      "textPreview": "INTERFACE",
+      "resolvedFontSize": 9.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.51,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERFACE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERFACE",
+          "resolvedTextStyle": {
+            "fontSize": 9.51,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERFACE",
+              "fontSize": 9.51,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7qlgfi9",
+      "id": "20",
+      "bbox": [
+        78,
+        321,
+        455,
+        22
+      ],
+      "geometry": "rect",
+      "text": "STATIC USER EXPERIENCE",
+      "textPreview": "STATIC USER EXPERIENCE",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Arial",
+        "color": "#C95C57",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "STATIC USER EXPERIENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "STATIC USER EXPERIENCE",
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Arial",
+            "color": "#C95C57",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STATIC USER EXPERIENCE",
+              "fontSize": 14.2,
+              "typeface": "Arial",
+              "color": "#C95C57",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h8z29kju",
+      "id": "21",
+      "bbox": [
+        98,
+        348,
+        435,
+        47
+      ],
+      "geometry": "rect",
+      "text": "Users navigate fixed screens and receive forecasts with limited follow-up support.",
+      "textPreview": "Users navigate fixed screens and receive forecasts with limited follow-up support.",
+      "resolvedFontSize": 12.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12.2,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Users navigate fixed screens and receive forecasts with limited follow-up"
+          },
+          {
+            "index": 2,
+            "text": "support."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Users navigate fixed screens and receive forecasts with limited follow-up support.",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Users navigate fixed screens and receive forecasts with limited follow-up support.",
+              "fontSize": 12.2,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u583ep0j",
+      "id": "22",
+      "bbox": [
+        421,
+        404,
+        112,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6hk7u1o",
+      "id": "23",
+      "bbox": [
+        747,
+        321,
+        455,
+        22
+      ],
+      "geometry": "rect",
+      "text": "AGENTIC CONVERSATION",
+      "textPreview": "AGENTIC CONVERSATION",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Arial",
+        "color": "#258B88",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AGENTIC CONVERSATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AGENTIC CONVERSATION",
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Arial",
+            "color": "#258B88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AGENTIC CONVERSATION",
+              "fontSize": 14.2,
+              "typeface": "Arial",
+              "color": "#258B88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s361cfid",
+      "id": "24",
+      "bbox": [
+        747,
+        348,
+        435,
+        47
+      ],
+      "geometry": "rect",
+      "text": "The agent understands intent, selects suitable tools and answers follow-up questions.",
+      "textPreview": "The agent understands intent, selects suitable tools and answers follow-up questions.",
+      "resolvedFontSize": 12.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12.2,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The agent understands intent, selects suitable tools and answers follow-up"
+          },
+          {
+            "index": 2,
+            "text": "questions."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The agent understands intent, selects suitable tools and answers follow-up questions.",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The agent understands intent, selects suitable tools and answers follow-up questions.",
+              "fontSize": 12.2,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t4f25kjy",
+      "id": "25",
+      "bbox": [
+        747,
+        404,
+        112,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61oja507",
+      "id": "26",
+      "bbox": [
+        610,
+        319,
+        60,
+        60
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 27,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ofyd4jix",
+      "id": "27",
+      "bbox": [
+        626,
+        331,
+        28,
+        28
+      ],
+      "alt": "INTERACTION comparison icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "202a2436-5ee0-489e-8b41-f089df9cbdaa",
+        "contentType": "image/svg+xml",
+        "byteLength": 384
+      }
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kz618vi1",
+      "id": "28",
+      "bbox": [
+        594,
+        384,
+        92,
+        18
+      ],
+      "geometry": "rect",
+      "text": "INTERACTION",
+      "textPreview": "INTERACTION",
+      "resolvedFontSize": 9.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.51,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERACTION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERACTION",
+          "resolvedTextStyle": {
+            "fontSize": 9.51,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERACTION",
+              "fontSize": 9.51,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50f210jm",
+      "id": "29",
+      "bbox": [
+        78,
+        439,
+        455,
+        22
+      ],
+      "geometry": "rect",
+      "text": "LIMITED ACCESSIBILITY",
+      "textPreview": "LIMITED ACCESSIBILITY",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Arial",
+        "color": "#C95C57",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LIMITED ACCESSIBILITY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LIMITED ACCESSIBILITY",
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Arial",
+            "color": "#C95C57",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LIMITED ACCESSIBILITY",
+              "fontSize": 14.2,
+              "typeface": "Arial",
+              "color": "#C95C57",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nad4bqlo",
+      "id": "30",
+      "bbox": [
+        98,
+        466,
+        435,
+        47
+      ],
+      "geometry": "rect",
+      "text": "Text-first applications often lack regional-language support and hands-free access.",
+      "textPreview": "Text-first applications often lack regional-language support and hands-free access.",
+      "resolvedFontSize": 12.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12.2,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Text-first applications often lack regional-language support and hands-free"
+          },
+          {
+            "index": 2,
+            "text": "access."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Text-first applications often lack regional-language support and hands-free access.",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Text-first applications often lack regional-language support and hands-free access.",
+              "fontSize": 12.2,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m943i543",
+      "id": "31",
+      "bbox": [
+        421,
+        522,
+        112,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvmd03e",
+      "id": "32",
+      "bbox": [
+        747,
+        439,
+        455,
+        22
+      ],
+      "geometry": "rect",
+      "text": "VOICE-BASED ACCESS",
+      "textPreview": "VOICE-BASED ACCESS",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Arial",
+        "color": "#258B88",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "VOICE-BASED ACCESS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "VOICE-BASED ACCESS",
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Arial",
+            "color": "#258B88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "VOICE-BASED ACCESS",
+              "fontSize": 14.2,
+              "typeface": "Arial",
+              "color": "#258B88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obmlkvm9",
+      "id": "33",
+      "bbox": [
+        747,
+        466,
+        435,
+        47
+      ],
+      "geometry": "rect",
+      "text": "Chat, speech-to-text, text-to-speech and voice commands make interaction easier.",
+      "textPreview": "Chat, speech-to-text, text-to-speech and voice commands make interaction easier.",
+      "resolvedFontSize": 12.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12.2,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Chat, speech-to-text, text-to-speech and voice commands make interaction"
+          },
+          {
+            "index": 2,
+            "text": "easier."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Chat, speech-to-text, text-to-speech and voice commands make interaction easier.",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Chat, speech-to-text, text-to-speech and voice commands make interaction easier.",
+              "fontSize": 12.2,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byx4falk",
+      "id": "34",
+      "bbox": [
+        747,
+        522,
+        112,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ax43m54z",
+      "id": "35",
+      "bbox": [
+        610,
+        437,
+        60,
+        60
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 36,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/yhgbatgz",
+      "id": "36",
+      "bbox": [
+        626,
+        449,
+        28,
+        28
+      ],
+      "alt": "ACCESS comparison icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "55bb4987-d17a-4962-b14c-132d3b8bd7b0",
+        "contentType": "image/svg+xml",
+        "byteLength": 409
+      }
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wz6lofm5",
+      "id": "37",
+      "bbox": [
+        594,
+        502,
+        92,
+        18
+      ],
+      "geometry": "rect",
+      "text": "ACCESS",
+      "textPreview": "ACCESS",
+      "resolvedFontSize": 9.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.51,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ACCESS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ACCESS",
+          "resolvedTextStyle": {
+            "fontSize": 9.51,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ACCESS",
+              "fontSize": 9.51,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2x4jalw",
+      "id": "38",
+      "bbox": [
+        78,
+        557,
+        455,
+        22
+      ],
+      "geometry": "rect",
+      "text": "FRAGMENTED HAZARD ALERTS",
+      "textPreview": "FRAGMENTED HAZARD ALERTS",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Arial",
+        "color": "#C95C57",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FRAGMENTED HAZARD ALERTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FRAGMENTED HAZARD ALERTS",
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Arial",
+            "color": "#C95C57",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FRAGMENTED HAZARD ALERTS",
+              "fontSize": 14.2,
+              "typeface": "Arial",
+              "color": "#C95C57",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i1o3qpkb",
+      "id": "39",
+      "bbox": [
+        98,
+        584,
+        435,
+        47
+      ],
+      "geometry": "rect",
+      "text": "Heatwave information, tsunami warnings and safety guidance come from separate services.",
+      "textPreview": "Heatwave information, tsunami warnings and safety guidance come from separate services.",
+      "resolvedFontSize": 12.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12.2,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Heatwave information, tsunami warnings and safety guidance come from"
+          },
+          {
+            "index": 2,
+            "text": "separate services."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Heatwave information, tsunami warnings and safety guidance come from separate services.",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Heatwave information, tsunami warnings and safety guidance come from separate services.",
+              "fontSize": 12.2,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hgf2dwj",
+      "id": "40",
+      "bbox": [
+        421,
+        640,
+        112,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ipwbix4",
+      "id": "41",
+      "bbox": [
+        747,
+        557,
+        455,
+        22
+      ],
+      "geometry": "rect",
+      "text": "HAZARD-AWARE GUIDANCE",
+      "textPreview": "HAZARD-AWARE GUIDANCE",
+      "resolvedFontSize": 14.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.2,
+        "typeface": "Arial",
+        "color": "#258B88",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HAZARD-AWARE GUIDANCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HAZARD-AWARE GUIDANCE",
+          "resolvedTextStyle": {
+            "fontSize": 14.2,
+            "typeface": "Arial",
+            "color": "#258B88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HAZARD-AWARE GUIDANCE",
+              "fontSize": 14.2,
+              "typeface": "Arial",
+              "color": "#258B88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4jyx4nep",
+      "id": "42",
+      "bbox": [
+        747,
+        584,
+        435,
+        47
+      ],
+      "geometry": "rect",
+      "text": "Weather GPT analyses heatwave risk and integrates official warning and emergency feeds.",
+      "textPreview": "Weather GPT analyses heatwave risk and integrates official warning and emergency feeds.",
+      "resolvedFontSize": 12.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12.2,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Weather GPT analyses heatwave risk and integrates official warning and"
+          },
+          {
+            "index": 2,
+            "text": "emergency feeds."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Weather GPT analyses heatwave risk and integrates official warning and emergency feeds.",
+          "resolvedTextStyle": {
+            "fontSize": 12.2,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Weather GPT analyses heatwave risk and integrates official warning and emergency feeds.",
+              "fontSize": 12.2,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pk7edsfa",
+      "id": "43",
+      "bbox": [
+        747,
+        640,
+        112,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qlgf6xwv",
+      "id": "44",
+      "bbox": [
+        610,
+        555,
+        60,
+        60
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 45,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/one9kzex",
+      "id": "45",
+      "bbox": [
+        626,
+        567,
+        28,
+        28
+      ],
+      "alt": "ALERTS comparison icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "679bb2e8-d78f-4a5a-afa0-984f92dfefc5",
+        "contentType": "image/svg+xml",
+        "byteLength": 309
+      }
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnix87el",
+      "id": "46",
+      "bbox": [
+        594,
+        620,
+        92,
+        18
+      ],
+      "geometry": "rect",
+      "text": "ALERTS",
+      "textPreview": "ALERTS",
+      "resolvedFontSize": 9.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.51,
+        "typeface": "Arial",
+        "color": "#686C72",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ALERTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ALERTS",
+          "resolvedTextStyle": {
+            "fontSize": 9.51,
+            "typeface": "Arial",
+            "color": "#686C72",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ALERTS",
+              "fontSize": 9.51,
+              "typeface": "Arial",
+              "color": "#686C72",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dorehcf6",
+      "id": "47",
+      "bbox": [
+        66,
+        687,
+        492,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#C95C57",
+      "lineWidth": 0
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6pwvutwb",
+      "id": "48",
+      "bbox": [
+        722,
+        687,
+        492,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#258B88",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,53 @@
+{"kind":"deck","id":"pr/inba97","name":"Deck"}
+{"kind":"layout","layoutId":"2461d66b-0c4f-4e93-8f95-589300e91158","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"89d75665-cf9d-4de9-b872-ad9fa3f9b6db","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/q3pu1i","slide":1,"title":"Existing Solutions vs Our Approach","textShapes":25}
+{"kind":"textbox","id":"sh/dw72xs7u","slide":1,"text":"Existing Solutions vs Our Approach","textPreview":"Existing Solutions vs Our Approach","textChars":34,"textLines":1,"bbox":[80,27,1120,47]}
+{"kind":"textbox","id":"sh/qtg3mdoj","slide":1,"text":"How Weather GPT improves weather access, interaction and hazard awareness","textPreview":"How Weather GPT improves weather access, interaction and hazard awareness","textChars":73,"textLines":1,"bbox":[155,76,970,26]}
+{"kind":"shape","id":"sh/rupkvipo","slide":1,"bbox":[535,108,210,3]}
+{"kind":"shape","id":"sh/4relk36d","slide":1,"bbox":[66,128,492,57]}
+{"kind":"shape","id":"sh/5s72t87y","slide":1,"bbox":[722,128,492,57]}
+{"kind":"textbox","id":"sh/ipw3ido7","slide":1,"text":"EXISTING WEATHER SOLUTIONS","textPreview":"EXISTING WEATHER SOLUTIONS","textChars":26,"textLines":1,"bbox":[92,143,438,28]}
+{"kind":"textbox","id":"sh/3q5krips","slide":1,"text":"WEATHER GPT APPROACH","textPreview":"WEATHER GPT APPROACH","textChars":20,"textLines":1,"bbox":[748,143,438,28]}
+{"kind":"shape","id":"sh/onilw76h","slide":1,"bbox":[587,116,106,553]}
+{"kind":"shape","id":"sh/porm5c72","slide":1,"bbox":[605,119,70,70]}
+{"kind":"textbox","id":"sh/lw7i5wbq","slide":1,"text":"VS","textPreview":"VS","textChars":2,"textLines":1,"bbox":[606,132,68,40]}
+{"kind":"textbox","id":"sh/0vyhwra5","slide":1,"text":"COMPLEX WEATHER INTERFACES","textPreview":"COMPLEX WEATHER INTERFACES","textChars":26,"textLines":1,"bbox":[78,203,455,22]}
+{"kind":"textbox","id":"sh/zup03mtk","slide":1,"text":"Technical maps and numerical dashboards make local conditions difficult to interpret.","textPreview":"Technical maps and numerical dashboards make local conditions difficult to interpret.","textChars":85,"textLines":1,"bbox":[98,230,435,47]}
+{"kind":"shape","id":"sh/ytwzuhcz","slide":1,"bbox":[421,286,112,1]}
+{"kind":"textbox","id":"sh/dsni1wbe","slide":1,"text":"INTERACTIVE WEATHER INTELLIGENCE","textPreview":"INTERACTIVE WEATHER INTELLIGENCE","textChars":32,"textLines":1,"bbox":[747,203,455,22]}
+{"kind":"textbox","id":"sh/c7ehsrut","slide":1,"text":"A 3D globe combines live conditions, weather layers and seven-day forecasts.","textPreview":"A 3D globe combines live conditions, weather layers and seven-day forecasts.","textChars":76,"textLines":1,"bbox":[747,230,435,47]}
+{"kind":"shape","id":"sh/b650zmt8","slide":1,"bbox":[747,286,112,1]}
+{"kind":"shape","id":"sh/q5wz6hc3","slide":1,"bbox":[610,201,60,60]}
+{"kind":"textbox","id":"sh/wni14bad","slide":1,"text":"INTERFACE","textPreview":"INTERFACE","textChars":9,"textLines":1,"bbox":[594,266,92,18]}
+{"kind":"textbox","id":"sh/g7qlgfi9","slide":1,"text":"STATIC USER EXPERIENCE","textPreview":"STATIC USER EXPERIENCE","textChars":22,"textLines":1,"bbox":[78,321,455,22]}
+{"kind":"textbox","id":"sh/h8z29kju","slide":1,"text":"Users navigate fixed screens and receive forecasts with limited follow-up support.","textPreview":"Users navigate fixed screens and receive forecasts with limited follow-up support.","textChars":82,"textLines":1,"bbox":[98,348,435,47]}
+{"kind":"shape","id":"sh/u583ep0j","slide":1,"bbox":[421,404,112,1]}
+{"kind":"textbox","id":"sh/f6hk7u1o","slide":1,"text":"AGENTIC CONVERSATION","textPreview":"AGENTIC CONVERSATION","textChars":20,"textLines":1,"bbox":[747,321,455,22]}
+{"kind":"textbox","id":"sh/s361cfid","slide":1,"text":"The agent understands intent, selects suitable tools and answers follow-up questions.","textPreview":"The agent understands intent, selects suitable tools and answers follow-up questions.","textChars":85,"textLines":1,"bbox":[747,348,435,47]}
+{"kind":"shape","id":"sh/t4f25kjy","slide":1,"bbox":[747,404,112,1]}
+{"kind":"shape","id":"sh/61oja507","slide":1,"bbox":[610,319,60,60]}
+{"kind":"textbox","id":"sh/kz618vi1","slide":1,"text":"INTERACTION","textPreview":"INTERACTION","textChars":11,"textLines":1,"bbox":[594,384,92,18]}
+{"kind":"textbox","id":"sh/50f210jm","slide":1,"text":"LIMITED ACCESSIBILITY","textPreview":"LIMITED ACCESSIBILITY","textChars":21,"textLines":1,"bbox":[78,439,455,22]}
+{"kind":"textbox","id":"sh/nad4bqlo","slide":1,"text":"Text-first applications often lack regional-language support and hands-free access.","textPreview":"Text-first applications often lack regional-language support and hands-free access.","textChars":83,"textLines":1,"bbox":[98,466,435,47]}
+{"kind":"shape","id":"sh/m943i543","slide":1,"bbox":[421,522,112,1]}
+{"kind":"textbox","id":"sh/9cvmd03e","slide":1,"text":"VOICE-BASED ACCESS","textPreview":"VOICE-BASED ACCESS","textChars":18,"textLines":1,"bbox":[747,439,455,22]}
+{"kind":"textbox","id":"sh/obmlkvm9","slide":1,"text":"Chat, speech-to-text, text-to-speech and voice commands make interaction easier.","textPreview":"Chat, speech-to-text, text-to-speech and voice commands make interaction easier.","textChars":80,"textLines":1,"bbox":[747,466,435,47]}
+{"kind":"shape","id":"sh/byx4falk","slide":1,"bbox":[747,522,112,1]}
+{"kind":"shape","id":"sh/ax43m54z","slide":1,"bbox":[610,437,60,60]}
+{"kind":"textbox","id":"sh/wz6lofm5","slide":1,"text":"ACCESS","textPreview":"ACCESS","textChars":6,"textLines":1,"bbox":[594,502,92,18]}
+{"kind":"textbox","id":"sh/j2x4jalw","slide":1,"text":"FRAGMENTED HAZARD ALERTS","textPreview":"FRAGMENTED HAZARD ALERTS","textChars":24,"textLines":1,"bbox":[78,557,455,22]}
+{"kind":"textbox","id":"sh/i1o3qpkb","slide":1,"text":"Heatwave information, tsunami warnings and safety guidance come from separate services.","textPreview":"Heatwave information, tsunami warnings and safety guidance come from separate services.","textChars":87,"textLines":1,"bbox":[98,584,435,47]}
+{"kind":"shape","id":"sh/2hgf2dwj","slide":1,"bbox":[421,640,112,1]}
+{"kind":"textbox","id":"sh/3ipwbix4","slide":1,"text":"HAZARD-AWARE GUIDANCE","textPreview":"HAZARD-AWARE GUIDANCE","textChars":21,"textLines":1,"bbox":[747,557,455,22]}
+{"kind":"textbox","id":"sh/4jyx4nep","slide":1,"text":"Weather GPT analyses heatwave risk and integrates official warning and emergency feeds.","textPreview":"Weather GPT analyses heatwave risk and integrates official warning and emergency feeds.","textChars":87,"textLines":1,"bbox":[747,584,435,47]}
+{"kind":"shape","id":"sh/pk7edsfa","slide":1,"bbox":[747,640,112,1]}
+{"kind":"shape","id":"sh/qlgf6xwv","slide":1,"bbox":[610,555,60,60]}
+{"kind":"textbox","id":"sh/cnix87el","slide":1,"text":"ALERTS","textPreview":"ALERTS","textChars":6,"textLines":1,"bbox":[594,620,92,18]}
+{"kind":"shape","id":"sh/dorehcf6","slide":1,"bbox":[66,687,492,3]}
+{"kind":"shape","id":"sh/6pwvutwb","slide":1,"bbox":[722,687,492,3]}
+{"kind":"image","id":"im/254z6hk3","slide":1,"name":"","alt":"INTERFACE comparison icon","bbox":[626,213,28,28]}
+{"kind":"image","id":"im/ofyd4jix","slide":1,"name":"","alt":"INTERACTION comparison icon","bbox":[626,331,28,28]}
+{"kind":"image","id":"im/yhgbatgz","slide":1,"name":"","alt":"ACCESS comparison icon","bbox":[626,449,28,28]}
+{"kind":"image","id":"im/one9kzex","slide":1,"name":"","alt":"ALERTS comparison icon","bbox":[626,567,28,28]}
+{"kind":"notes","id":"nt/q3pu1i","slide":1,"text":""}

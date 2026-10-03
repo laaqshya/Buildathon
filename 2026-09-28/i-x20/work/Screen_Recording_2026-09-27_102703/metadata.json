@@ -1,0 +1,18 @@
+{
+  "file": "Screen Recording 2026-09-27 102703.mp4",
+  "duration_s": 57.966633,
+  "streams": [
+    {
+      "type": "video",
+      "codec": "h264"
+    },
+    {
+      "type": "audio",
+      "codec": "aac"
+    }
+  ],
+  "audio_rms": 42.01082859918426,
+  "audio_seconds": 57.8773125,
+  "sampled_frames": 20,
+  "output_dir": "C:\\Users\\laaqs\\Documents\\Codex\\2026-09-28\\i-x20\\work\\Screen_Recording_2026-09-27_102703"
+}

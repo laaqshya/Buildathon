@@ -1,0 +1,57 @@
+{"kind":"deck","id":"pr/gtms1l","name":"Deck"}
+{"kind":"layout","layoutId":"8e9c6e61-7e7b-4887-ad80-893968aad0ca","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"a1e70762-d0fa-464d-b388-2b3e751f45c5","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/hbbg7v","slide":1,"title":"Tools and Technologies Required","textShapes":17}
+{"kind":"shape","id":"sh/6tgvylwv","slide":1,"bbox":[11,12,53,53]}
+{"kind":"textbox","id":"sh/svyd0ve1","slide":1,"text":"Tools and Technologies Required","textPreview":"Tools and Technologies Required","textChars":31,"textLines":1,"bbox":[82,14,800,45]}
+{"kind":"shape","id":"sh/j65wnqxk","slide":1,"bbox":[0,76,1280,1]}
+{"kind":"textbox","id":"sh/i5wvulwz","slide":1,"text":"Proposed implementation stack for the Weather GPT prototype","textPreview":"Proposed implementation stack for the Weather GPT prototype","textChars":59,"textLines":1,"bbox":[82,88,900,25]}
+{"kind":"shape","id":"sh/5s7ep0fa","slide":1,"bbox":[0,700,1280,20]}
+{"kind":"shape","id":"sh/47ydwve5","slide":1,"bbox":[491,197,2,350]}
+{"kind":"shape","id":"sh/v25cj6x8","slide":1,"bbox":[787,197,2,350]}
+{"kind":"shape","id":"sh/u1wvq1wn","slide":1,"bbox":[460,197,33,2]}
+{"kind":"shape","id":"sh/oze1ofyx","slide":1,"bbox":[787,197,33,2]}
+{"kind":"shape","id":"sh/p0nihkzi","slide":1,"bbox":[460,362,33,2]}
+{"kind":"shape","id":"sh/2xwjm5gr","slide":1,"bbox":[787,362,33,2]}
+{"kind":"shape","id":"sh/ny50fahc","slide":1,"bbox":[460,527,33,2]}
+{"kind":"shape","id":"sh/gvu1kvy1","slide":1,"bbox":[787,527,33,2]}
+{"kind":"shape","id":"sh/1wnid0z6","slide":1,"bbox":[491,371,34,2]}
+{"kind":"shape","id":"sh/etcji5gv","slide":1,"bbox":[755,371,34,2]}
+{"kind":"shape","id":"sh/ful0bqhg","slide":1,"bbox":[65,132,395,130]}
+{"kind":"shape","id":"sh/kry1wzy5","slide":1,"bbox":[65,132,6,130]}
+{"kind":"textbox","id":"sh/to3i9k7u","slide":1,"text":"FRONTEND INTERFACE","textPreview":"FRONTEND INTERFACE","textChars":18,"textLines":1,"bbox":[131,149,300,26]}
+{"kind":"textbox","id":"sh/8nu1gzq9","slide":1,"text":"React and TypeScript\nHTML5, CSS3 and responsive design\nAccessible chat and forecast interface","textPreview":"React and TypeScript | HTML5, CSS3 and responsive design | Accessible chat and forecast interface","textChars":93,"textLines":3,"bbox":[87,185,340,68]}
+{"kind":"shape","id":"sh/7ml07u9o","slide":1,"bbox":[65,297,395,130]}
+{"kind":"shape","id":"sh/6lcjep83","slide":1,"bbox":[65,297,6,130]}
+{"kind":"textbox","id":"sh/kju1cfqd","slide":1,"text":"MAPS AND GEOSPATIAL","textPreview":"MAPS AND GEOSPATIAL","textChars":19,"textLines":1,"bbox":[131,314,300,26]}
+{"kind":"textbox","id":"sh/ji103a9s","slide":1,"text":"CesiumJS interactive 3D globe\nMap tiles and weather overlays\nGeocoding and location search","textPreview":"CesiumJS interactive 3D globe | Map tiles and weather overlays | Geocoding and location search","textChars":90,"textLines":3,"bbox":[87,350,340,68]}
+{"kind":"shape","id":"sh/yhsja587","slide":1,"bbox":[65,462,395,130]}
+{"kind":"shape","id":"sh/xgji10rm","slide":1,"bbox":[65,462,6,130]}
+{"kind":"textbox","id":"sh/2l8f21oz","slide":1,"text":"SPEECH AND LANGUAGE","textPreview":"SPEECH AND LANGUAGE","textChars":19,"textLines":1,"bbox":[131,479,300,26]}
+{"kind":"textbox","id":"sh/nmhgb6pk","slide":1,"text":"Speech-to-text and text-to-speech\nVoice-command processing\nLanguage detection and translation","textPreview":"Speech-to-text and text-to-speech | Voice-command processing | Language detection and translation","textChars":93,"textLines":3,"bbox":[87,515,340,68]}
+{"kind":"shape","id":"sh/onqx4b65","slide":1,"bbox":[820,132,395,130]}
+{"kind":"shape","id":"sh/pozydg7a","slide":1,"bbox":[820,132,6,130]}
+{"kind":"textbox","id":"sh/fyxg76p8","slide":1,"text":"AGENTIC AI","textPreview":"AGENTIC AI","textChars":10,"textLines":1,"bbox":[886,149,300,26]}
+{"kind":"textbox","id":"sh/0zqx0b6t","slide":1,"text":"Tool-calling language model\nAgent planning and orchestration\nPrompt guardrails and data verification","textPreview":"Tool-calling language model | Agent planning and orchestration | Prompt guardrails and data verification","textChars":100,"textLines":3,"bbox":[842,185,340,68]}
+{"kind":"shape","id":"sh/1kzy9g7e","slide":1,"bbox":[820,297,395,130]}
+{"kind":"shape","id":"sh/qtofuhor","slide":1,"bbox":[820,297,6,130]}
+{"kind":"textbox","id":"sh/jmhcf29s","slide":1,"text":"BACKEND AND APIs","textPreview":"BACKEND AND APIs","textChars":16,"textLines":1,"bbox":[886,314,300,26]}
+{"kind":"textbox","id":"sh/il8b6xsn","slide":1,"text":"Python and FastAPI\nREST APIs and WebSocket communication\nPydantic data validation","textPreview":"Python and FastAPI | REST APIs and WebSocket communication | Pydantic data validation","textChars":81,"textLines":3,"bbox":[842,350,340,68]}
+{"kind":"shape","id":"sh/58zuhcry","slide":1,"bbox":[820,462,395,130]}
+{"kind":"shape","id":"sh/47qd87ad","slide":1,"bbox":[820,462,6,130]}
+{"kind":"textbox","id":"sh/uhob2dsb","slide":1,"text":"DATA AND DEPLOYMENT","textPreview":"DATA AND DEPLOYMENT","textChars":19,"textLines":1,"bbox":[886,479,300,26]}
+{"kind":"textbox","id":"sh/hkfudsr2","slide":1,"text":"Open-Meteo and official warning feeds\nPostgreSQL and Redis cache\nDocker, GitHub and cloud monitoring","textPreview":"Open-Meteo and official warning feeds | PostgreSQL and Redis cache | Docker, GitHub and cloud monitoring","textChars":100,"textLines":3,"bbox":[842,515,340,68]}
+{"kind":"shape","id":"sh/wj6t4nah","slide":1,"bbox":[525,268,230,210]}
+{"kind":"textbox","id":"sh/mdobydsf","slide":1,"text":"WEATHER\nGPT","textPreview":"WEATHER | GPT","textChars":11,"textLines":2,"bbox":[558,343,164,62]}
+{"kind":"textbox","id":"sh/cj298jqx","slide":1,"text":"Agentic weather platform","textPreview":"Agentic weather platform","textChars":24,"textLines":1,"bbox":[562,417,156,36]}
+{"kind":"shape","id":"sh/xkbaho7i","slide":1,"bbox":[65,626,1150,1]}
+{"kind":"textbox","id":"sh/ahkr6987","slide":1,"text":"The stack combines the interactive weather interface, agent orchestration, verified data sources and voice access.","textPreview":"The stack combines the interactive weather interface, agent orchestration, verified data sources and voice access.","textChars":114,"textLines":1,"bbox":[65,640,1150,31]}
+{"kind":"image","id":"im/orulcn6h","slide":1,"name":"","alt":"Pin symbol","bbox":[25,25,27,27]}
+{"kind":"image","id":"im/u58vi143","slide":1,"name":"","alt":"FRONTEND INTERFACE icon","bbox":[87,151,31,31]}
+{"kind":"image","id":"im/yhw7u9sz","slide":1,"name":"","alt":"MAPS AND GEOSPATIAL icon","bbox":[87,316,31,31]}
+{"kind":"image","id":"im/fm1ora90","slide":1,"name":"","alt":"SPEECH AND LANGUAGE icon","bbox":[87,481,31,31]}
+{"kind":"image","id":"im/54rq1sbu","slide":1,"name":"","alt":"AGENTIC AI icon","bbox":[842,151,31,31]}
+{"kind":"image","id":"im/k7y9gjup","slide":1,"name":"","alt":"BACKEND AND APIs icon","bbox":[842,316,31,31]}
+{"kind":"image","id":"im/gzmtkreh","slide":1,"name":"","alt":"DATA AND DEPLOYMENT icon","bbox":[842,481,31,31]}
+{"kind":"image","id":"im/sv2tg7e5","slide":1,"name":"","alt":"Weather GPT platform icon","bbox":[617,300,45,45]}
+{"kind":"notes","id":"nt/hbbg7v","slide":1,"text":"Proposed implementation stack for Weather GPT. Open-Meteo appears as a reference data provider in the supplied Weather Globe recording. Other technologies are proposed choices and should be updated if the team selects different frameworks or hosting services."}

@@ -1,0 +1,2133 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/hbbg7v",
+    "id": "hbbg7v",
+    "slide": 1,
+    "layoutId": "a1e70762-d0fa-464d-b388-2b3e751f45c5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "8e9c6e61-7e7b-4887-ad80-893968aad0ca",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial",
+      "Georgia"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a1e70762-d0fa-464d-b388-2b3e751f45c5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "8e9c6e61-7e7b-4887-ad80-893968aad0ca",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "8e9c6e61-7e7b-4887-ad80-893968aad0ca",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tgvylwv",
+      "id": "1",
+      "bbox": [
+        11,
+        12,
+        53,
+        53
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#8F79C6",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/orulcn6h",
+      "id": "2",
+      "bbox": [
+        25,
+        25,
+        27,
+        27
+      ],
+      "alt": "Pin symbol",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "e258f588-6146-4d3e-863b-cd31f53497db",
+        "contentType": "image/svg+xml",
+        "byteLength": 416
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svyd0ve1",
+      "id": "3",
+      "bbox": [
+        82,
+        14,
+        800,
+        45
+      ],
+      "geometry": "rect",
+      "text": "Tools and Technologies Required",
+      "textPreview": "Tools and Technologies Required",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Georgia",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Tools and Technologies Required"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Tools and Technologies Required",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Georgia",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Tools and Technologies Required",
+              "fontSize": 30,
+              "typeface": "Georgia",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j65wnqxk",
+      "id": "4",
+      "bbox": [
+        0,
+        76,
+        1280,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5wvulwz",
+      "id": "5",
+      "bbox": [
+        82,
+        88,
+        900,
+        25
+      ],
+      "geometry": "rect",
+      "text": "Proposed implementation stack for the Weather GPT prototype",
+      "textPreview": "Proposed implementation stack for the Weather GPT prototype",
+      "resolvedFontSize": 14.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14.51,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Proposed implementation stack for the Weather GPT prototype"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Proposed implementation stack for the Weather GPT prototype",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Proposed implementation stack for the Weather GPT prototype",
+              "fontSize": 14.51,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5s7ep0fa",
+      "id": "6",
+      "bbox": [
+        0,
+        700,
+        1280,
+        20
+      ],
+      "geometry": "rect",
+      "fillColor": "#6B4FB1",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47ydwve5",
+      "id": "7",
+      "bbox": [
+        491,
+        197,
+        2,
+        350
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v25cj6x8",
+      "id": "8",
+      "bbox": [
+        787,
+        197,
+        2,
+        350
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1wvq1wn",
+      "id": "9",
+      "bbox": [
+        460,
+        197,
+        33,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oze1ofyx",
+      "id": "10",
+      "bbox": [
+        787,
+        197,
+        33,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0nihkzi",
+      "id": "11",
+      "bbox": [
+        460,
+        362,
+        33,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xwjm5gr",
+      "id": "12",
+      "bbox": [
+        787,
+        362,
+        33,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ny50fahc",
+      "id": "13",
+      "bbox": [
+        460,
+        527,
+        33,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvu1kvy1",
+      "id": "14",
+      "bbox": [
+        787,
+        527,
+        33,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1wnid0z6",
+      "id": "15",
+      "bbox": [
+        491,
+        371,
+        34,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/etcji5gv",
+      "id": "16",
+      "bbox": [
+        755,
+        371,
+        34,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ful0bqhg",
+      "id": "17",
+      "bbox": [
+        65,
+        132,
+        395,
+        130
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F7F7F8",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kry1wzy5",
+      "id": "18",
+      "bbox": [
+        65,
+        132,
+        6,
+        130
+      ],
+      "geometry": "rect",
+      "fillColor": "#376A96",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/u58vi143",
+      "id": "19",
+      "bbox": [
+        87,
+        151,
+        31,
+        31
+      ],
+      "alt": "FRONTEND INTERFACE icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "2266a6fa-6647-4e6a-b4b6-1cd511e8e53c",
+        "contentType": "image/svg+xml",
+        "byteLength": 347
+      }
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/to3i9k7u",
+      "id": "20",
+      "bbox": [
+        131,
+        149,
+        300,
+        26
+      ],
+      "geometry": "rect",
+      "text": "FRONTEND INTERFACE",
+      "textPreview": "FRONTEND INTERFACE",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "Arial",
+        "color": "#376A96",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FRONTEND INTERFACE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FRONTEND INTERFACE",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Arial",
+            "color": "#376A96",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FRONTEND INTERFACE",
+              "fontSize": 16.51,
+              "typeface": "Arial",
+              "color": "#376A96",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nu1gzq9",
+      "id": "21",
+      "bbox": [
+        87,
+        185,
+        340,
+        68
+      ],
+      "geometry": "rect",
+      "text": "React and TypeScript\nHTML5, CSS3 and responsive design\nAccessible chat and forecast interface",
+      "textPreview": "React and TypeScript | HTML5, CSS3 and responsive design | Accessible chat and forecast interface",
+      "resolvedFontSize": 13.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "React and TypeScript"
+          },
+          {
+            "index": 2,
+            "text": "HTML5, CSS3 and responsive design"
+          },
+          {
+            "index": 3,
+            "text": "Accessible chat and forecast interface"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "React and TypeScript",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "React and TypeScript",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "HTML5, CSS3 and responsive design",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HTML5, CSS3 and responsive design",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Accessible chat and forecast interface",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Accessible chat and forecast interface",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ml07u9o",
+      "id": "22",
+      "bbox": [
+        65,
+        297,
+        395,
+        130
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F7F7F8",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lcjep83",
+      "id": "23",
+      "bbox": [
+        65,
+        297,
+        6,
+        130
+      ],
+      "geometry": "rect",
+      "fillColor": "#258B88",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/yhw7u9sz",
+      "id": "24",
+      "bbox": [
+        87,
+        316,
+        31,
+        31
+      ],
+      "alt": "MAPS AND GEOSPATIAL icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "0fe2d6d9-dd9e-4cb8-91f9-878bf88f6a51",
+        "contentType": "image/svg+xml",
+        "byteLength": 427
+      }
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kju1cfqd",
+      "id": "25",
+      "bbox": [
+        131,
+        314,
+        300,
+        26
+      ],
+      "geometry": "rect",
+      "text": "MAPS AND GEOSPATIAL",
+      "textPreview": "MAPS AND GEOSPATIAL",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "Arial",
+        "color": "#258B88",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MAPS AND GEOSPATIAL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MAPS AND GEOSPATIAL",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Arial",
+            "color": "#258B88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MAPS AND GEOSPATIAL",
+              "fontSize": 16.51,
+              "typeface": "Arial",
+              "color": "#258B88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji103a9s",
+      "id": "26",
+      "bbox": [
+        87,
+        350,
+        340,
+        68
+      ],
+      "geometry": "rect",
+      "text": "CesiumJS interactive 3D globe\nMap tiles and weather overlays\nGeocoding and location search",
+      "textPreview": "CesiumJS interactive 3D globe | Map tiles and weather overlays | Geocoding and location search",
+      "resolvedFontSize": 13.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CesiumJS interactive 3D globe"
+          },
+          {
+            "index": 2,
+            "text": "Map tiles and weather overlays"
+          },
+          {
+            "index": 3,
+            "text": "Geocoding and location search"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CesiumJS interactive 3D globe",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CesiumJS interactive 3D globe",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Map tiles and weather overlays",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Map tiles and weather overlays",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Geocoding and location search",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Geocoding and location search",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhsja587",
+      "id": "27",
+      "bbox": [
+        65,
+        462,
+        395,
+        130
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F7F7F8",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xgji10rm",
+      "id": "28",
+      "bbox": [
+        65,
+        462,
+        6,
+        130
+      ],
+      "geometry": "rect",
+      "fillColor": "#6B4FB1",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/fm1ora90",
+      "id": "29",
+      "bbox": [
+        87,
+        481,
+        31,
+        31
+      ],
+      "alt": "SPEECH AND LANGUAGE icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "c83687c2-efb4-40b6-87d2-cfd1f996bed6",
+        "contentType": "image/svg+xml",
+        "byteLength": 299
+      }
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2l8f21oz",
+      "id": "30",
+      "bbox": [
+        131,
+        479,
+        300,
+        26
+      ],
+      "geometry": "rect",
+      "text": "SPEECH AND LANGUAGE",
+      "textPreview": "SPEECH AND LANGUAGE",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "Arial",
+        "color": "#6B4FB1",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SPEECH AND LANGUAGE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SPEECH AND LANGUAGE",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Arial",
+            "color": "#6B4FB1",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SPEECH AND LANGUAGE",
+              "fontSize": 16.51,
+              "typeface": "Arial",
+              "color": "#6B4FB1",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nmhgb6pk",
+      "id": "31",
+      "bbox": [
+        87,
+        515,
+        340,
+        68
+      ],
+      "geometry": "rect",
+      "text": "Speech-to-text and text-to-speech\nVoice-command processing\nLanguage detection and translation",
+      "textPreview": "Speech-to-text and text-to-speech | Voice-command processing | Language detection and translation",
+      "resolvedFontSize": 13.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Speech-to-text and text-to-speech"
+          },
+          {
+            "index": 2,
+            "text": "Voice-command processing"
+          },
+          {
+            "index": 3,
+            "text": "Language detection and translation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Speech-to-text and text-to-speech",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Speech-to-text and text-to-speech",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Voice-command processing",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Voice-command processing",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Language detection and translation",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Language detection and translation",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onqx4b65",
+      "id": "32",
+      "bbox": [
+        820,
+        132,
+        395,
+        130
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F7F7F8",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pozydg7a",
+      "id": "33",
+      "bbox": [
+        820,
+        132,
+        6,
+        130
+      ],
+      "geometry": "rect",
+      "fillColor": "#6B4FB1",
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/54rq1sbu",
+      "id": "34",
+      "bbox": [
+        842,
+        151,
+        31,
+        31
+      ],
+      "alt": "AGENTIC AI icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "dbb585b3-8d50-42d9-a721-534d8f95f4e4",
+        "contentType": "image/svg+xml",
+        "byteLength": 330
+      }
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyxg76p8",
+      "id": "35",
+      "bbox": [
+        886,
+        149,
+        300,
+        26
+      ],
+      "geometry": "rect",
+      "text": "AGENTIC AI",
+      "textPreview": "AGENTIC AI",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "Arial",
+        "color": "#6B4FB1",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AGENTIC AI"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AGENTIC AI",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Arial",
+            "color": "#6B4FB1",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AGENTIC AI",
+              "fontSize": 16.51,
+              "typeface": "Arial",
+              "color": "#6B4FB1",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0zqx0b6t",
+      "id": "36",
+      "bbox": [
+        842,
+        185,
+        340,
+        68
+      ],
+      "geometry": "rect",
+      "text": "Tool-calling language model\nAgent planning and orchestration\nPrompt guardrails and data verification",
+      "textPreview": "Tool-calling language model | Agent planning and orchestration | Prompt guardrails and data verification",
+      "resolvedFontSize": 13.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Tool-calling language model"
+          },
+          {
+            "index": 2,
+            "text": "Agent planning and orchestration"
+          },
+          {
+            "index": 3,
+            "text": "Prompt guardrails and data verification"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Tool-calling language model",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Tool-calling language model",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Agent planning and orchestration",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agent planning and orchestration",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Prompt guardrails and data verification",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Prompt guardrails and data verification",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kzy9g7e",
+      "id": "37",
+      "bbox": [
+        820,
+        297,
+        395,
+        130
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F7F7F8",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtofuhor",
+      "id": "38",
+      "bbox": [
+        820,
+        297,
+        6,
+        130
+      ],
+      "geometry": "rect",
+      "fillColor": "#C95C57",
+      "lineWidth": 0
+    },
+    {
+      "order": 39,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/k7y9gjup",
+      "id": "39",
+      "bbox": [
+        842,
+        316,
+        31,
+        31
+      ],
+      "alt": "BACKEND AND APIs icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "6f5887f1-42d0-4c98-b43c-94978d5d71aa",
+        "contentType": "image/svg+xml",
+        "byteLength": 723
+      }
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmhcf29s",
+      "id": "40",
+      "bbox": [
+        886,
+        314,
+        300,
+        26
+      ],
+      "geometry": "rect",
+      "text": "BACKEND AND APIs",
+      "textPreview": "BACKEND AND APIs",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "Arial",
+        "color": "#C95C57",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BACKEND AND APIs"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BACKEND AND APIs",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Arial",
+            "color": "#C95C57",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BACKEND AND APIs",
+              "fontSize": 16.51,
+              "typeface": "Arial",
+              "color": "#C95C57",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il8b6xsn",
+      "id": "41",
+      "bbox": [
+        842,
+        350,
+        340,
+        68
+      ],
+      "geometry": "rect",
+      "text": "Python and FastAPI\nREST APIs and WebSocket communication\nPydantic data validation",
+      "textPreview": "Python and FastAPI | REST APIs and WebSocket communication | Pydantic data validation",
+      "resolvedFontSize": 13.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Python and FastAPI"
+          },
+          {
+            "index": 2,
+            "text": "REST APIs and WebSocket communication"
+          },
+          {
+            "index": 3,
+            "text": "Pydantic data validation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Python and FastAPI",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Python and FastAPI",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "REST APIs and WebSocket communication",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REST APIs and WebSocket communication",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Pydantic data validation",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Pydantic data validation",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58zuhcry",
+      "id": "42",
+      "bbox": [
+        820,
+        462,
+        395,
+        130
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F7F7F8",
+      "lineColor": "#D9DDE1",
+      "lineWidth": 1
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47qd87ad",
+      "id": "43",
+      "bbox": [
+        820,
+        462,
+        6,
+        130
+      ],
+      "geometry": "rect",
+      "fillColor": "#578B68",
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/gzmtkreh",
+      "id": "44",
+      "bbox": [
+        842,
+        481,
+        31,
+        31
+      ],
+      "alt": "DATA AND DEPLOYMENT icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "755257fc-4de4-4d22-b2a2-37c6cad19cbe",
+        "contentType": "image/svg+xml",
+        "byteLength": 350
+      }
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uhob2dsb",
+      "id": "45",
+      "bbox": [
+        886,
+        479,
+        300,
+        26
+      ],
+      "geometry": "rect",
+      "text": "DATA AND DEPLOYMENT",
+      "textPreview": "DATA AND DEPLOYMENT",
+      "resolvedFontSize": 16.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16.51,
+        "typeface": "Arial",
+        "color": "#578B68",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DATA AND DEPLOYMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DATA AND DEPLOYMENT",
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Arial",
+            "color": "#578B68",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DATA AND DEPLOYMENT",
+              "fontSize": 16.51,
+              "typeface": "Arial",
+              "color": "#578B68",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hkfudsr2",
+      "id": "46",
+      "bbox": [
+        842,
+        515,
+        340,
+        68
+      ],
+      "geometry": "rect",
+      "text": "Open-Meteo and official warning feeds\nPostgreSQL and Redis cache\nDocker, GitHub and cloud monitoring",
+      "textPreview": "Open-Meteo and official warning feeds | PostgreSQL and Redis cache | Docker, GitHub and cloud monitoring",
+      "resolvedFontSize": 13.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Open-Meteo and official warning feeds"
+          },
+          {
+            "index": 2,
+            "text": "PostgreSQL and Redis cache"
+          },
+          {
+            "index": 3,
+            "text": "Docker, GitHub and cloud monitoring"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Open-Meteo and official warning feeds",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Open-Meteo and official warning feeds",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "PostgreSQL and Redis cache",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PostgreSQL and Redis cache",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Docker, GitHub and cloud monitoring",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Docker, GitHub and cloud monitoring",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wj6t4nah",
+      "id": "47",
+      "bbox": [
+        525,
+        268,
+        230,
+        210
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#8F79C6",
+      "lineColor": "#6B4FB1",
+      "lineWidth": 2
+    },
+    {
+      "order": 48,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/sv2tg7e5",
+      "id": "48",
+      "bbox": [
+        617,
+        300,
+        45,
+        45
+      ],
+      "alt": "Weather GPT platform icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "7755979d-a1fe-4897-994d-cb953cb8b52d",
+        "contentType": "image/svg+xml",
+        "byteLength": 387
+      }
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdobydsf",
+      "id": "49",
+      "bbox": [
+        558,
+        343,
+        164,
+        62
+      ],
+      "geometry": "rect",
+      "text": "WEATHER\nGPT",
+      "textPreview": "WEATHER | GPT",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "WEATHER"
+          },
+          {
+            "index": 2,
+            "text": "GPT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "WEATHER",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WEATHER",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "GPT",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "GPT",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj298jqx",
+      "id": "50",
+      "bbox": [
+        562,
+        417,
+        156,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Agentic weather platform",
+      "textPreview": "Agentic weather platform",
+      "resolvedFontSize": 12.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12.51,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agentic weather"
+          },
+          {
+            "index": 2,
+            "text": "platform"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agentic weather platform",
+          "resolvedTextStyle": {
+            "fontSize": 12.51,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agentic weather platform",
+              "fontSize": 12.51,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkbaho7i",
+      "id": "51",
+      "bbox": [
+        65,
+        626,
+        1150,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahkr6987",
+      "id": "52",
+      "bbox": [
+        65,
+        640,
+        1150,
+        31
+      ],
+      "geometry": "rect",
+      "text": "The stack combines the interactive weather interface, agent orchestration, verified data sources and voice access.",
+      "textPreview": "The stack combines the interactive weather interface, agent orchestration, verified data sources and voice access.",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The stack combines the interactive weather interface, agent orchestration, verified data sources and voice access."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The stack combines the interactive weather interface, agent orchestration, verified data sources and voice access.",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The stack combines the interactive weather interface, agent orchestration, verified data sources and voice access.",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

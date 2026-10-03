@@ -1,0 +1,3601 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/j516ze",
+    "id": "j516ze",
+    "slide": 1,
+    "layoutId": "34a384a8-ab63-49cf-862d-68cdc9dffdb9",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "d0187025-19ea-4ed4-9dda-a53cd197eac0",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "34a384a8-ab63-49cf-862d-68cdc9dffdb9",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "d0187025-19ea-4ed4-9dda-a53cd197eac0",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "d0187025-19ea-4ed4-9dda-a53cd197eac0",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu9sv2hc",
+      "id": "1",
+      "bbox": [
+        62,
+        24,
+        1155,
+        54
+      ],
+      "geometry": "rect",
+      "text": "Domain and Problem Statement",
+      "textPreview": "Domain and Problem Statement",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Domain and Problem Statement"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Domain and Problem Statement",
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Domain and Problem Statement",
+              "fontSize": 40,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvi947yx",
+      "id": "2",
+      "bbox": [
+        62,
+        81,
+        1160,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#258B88",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1wraxczi",
+      "id": "3",
+      "bbox": [
+        62,
+        96,
+        78,
+        24
+      ],
+      "geometry": "rect",
+      "text": "DOMAIN",
+      "textPreview": "DOMAIN",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Arial",
+        "color": "#258B88",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DOMAIN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DOMAIN",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Arial",
+            "color": "#258B88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DOMAIN",
+              "fontSize": 14,
+              "typeface": "Arial",
+              "color": "#258B88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x0r6hg3",
+      "id": "4",
+      "bbox": [
+        145,
+        94,
+        1075,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Agentic Artificial Intelligence, Conversational AI, Weather Analytics, Geospatial Visualisation, Speech Technology and Hazard-Awareness Systems",
+      "textPreview": "Agentic Artificial Intelligence, Conversational AI, Weather Analytics, Geospatial Visualisation, Speech Technology and Hazard-Awareness S...",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agentic Artificial Intelligence, Conversational AI, Weather Analytics, Geospatial Visualisation, Speech Technology and"
+          },
+          {
+            "index": 2,
+            "text": "Hazard-Awareness Systems"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agentic Artificial Intelligence, Conversational AI, Weather Analytics, Geospatial Visualisation, Speech Technology and Hazard-Awareness Systems",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agentic Artificial Intelligence, Conversational AI, Weather Analytics, Geospatial Visualisation, Speech Technology and Hazard-Awareness Systems",
+              "fontSize": 17,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3y9szmho",
+      "id": "5",
+      "bbox": [
+        62,
+        144,
+        1160,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oz29sryt",
+      "id": "6",
+      "bbox": [
+        459,
+        164,
+        1,
+        310
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0ba1wze",
+      "id": "7",
+      "bbox": [
+        862,
+        164,
+        1,
+        310
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1kru1gz",
+      "id": "8",
+      "bbox": [
+        62,
+        164,
+        360,
+        28
+      ],
+      "geometry": "rect",
+      "text": "PROBLEM STATEMENT",
+      "textPreview": "PROBLEM STATEMENT",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#C95C57",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PROBLEM STATEMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PROBLEM STATEMENT",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#C95C57",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PROBLEM STATEMENT",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#C95C57",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2ts3mhk",
+      "id": "9",
+      "bbox": [
+        62,
+        196,
+        78,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#C95C57",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqts3a1s",
+      "id": "10",
+      "bbox": [
+        62,
+        210,
+        373,
+        250
+      ],
+      "geometry": "rect",
+      "text": "Weather information is spread across forecast applications, technical dashboards, map services and separate emergency-alert platforms. Users often need to interpret numerical data without receiving a clear explanation of how the conditions affect their location, activity or travel plans. Most applications provide static results and require manual navigation between screens. Weather GPT addresses this gap through an agentic AI assistant that understands user intent, selects trusted weather and alert sources, analyses the retrieved information and presents relevant guidance through text, voice and interactive maps.",
+      "textPreview": "Weather information is spread across forecast applications, technical dashboards, map services and separate emergency-alert platforms. Us...",
+      "resolvedFontSize": 13.2,
+      "resolvedTextStyle": {
+        "fontSize": 13.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 11,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Weather information is spread across forecast applications,"
+          },
+          {
+            "index": 2,
+            "text": "technical dashboards, map services and separate"
+          },
+          {
+            "index": 3,
+            "text": "emergency-alert platforms. Users often need to interpret"
+          },
+          {
+            "index": 4,
+            "text": "numerical data without receiving a clear explanation of how"
+          },
+          {
+            "index": 5,
+            "text": "the conditions affect their location, activity or travel plans."
+          },
+          {
+            "index": 6,
+            "text": "Most applications provide static results and require manual"
+          },
+          {
+            "index": 7,
+            "text": "navigation between screens. Weather GPT addresses this"
+          },
+          {
+            "index": 8,
+            "text": "gap through an agentic AI assistant that understands user"
+          },
+          {
+            "index": 9,
+            "text": "intent, selects trusted weather and alert sources, analyses"
+          },
+          {
+            "index": 10,
+            "text": "the retrieved information and presents relevant guidance"
+          },
+          {
+            "index": 11,
+            "text": "through text, voice and interactive maps."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Weather information is spread across forecast applications, technical dashboards, map services and separate emergency-alert platforms. Users often need to interpret numerical data without receiving a clear explanation of how the conditions affect their location, activity or travel plans. Most applications provide static results and require manual navigation between screens. Weather GPT addresses this gap through an agentic AI assistant that understands user intent, selects trusted weather and alert sources, analyses the retrieved information and presents relevant guidance through text, voice and interactive maps.",
+          "resolvedTextStyle": {
+            "fontSize": 13.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Weather information is spread across forecast applications, technical dashboards, map services and separate emergency-alert platforms. Users often need to interpret numerical data without receiving a clear explanation of how the conditions affect their location, activity or travel plans. Most applications provide static results and require manual navigation between screens. Weather GPT addresses this gap through an agentic AI assistant that understands user intent, selects trusted weather and alert sources, analyses the retrieved information and presents relevant guidance through text, voice and interactive maps.",
+              "fontSize": 13.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0ru507",
+      "id": "11",
+      "bbox": [
+        483,
+        164,
+        340,
+        28
+      ],
+      "geometry": "rect",
+      "text": "PAIN POINTS",
+      "textPreview": "PAIN POINTS",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#258B88",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PAIN POINTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PAIN POINTS",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#258B88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PAIN POINTS",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#258B88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9sba5kjy",
+      "id": "12",
+      "bbox": [
+        483,
+        196,
+        58,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#258B88",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/3ut0v6lg",
+      "id": "13",
+      "bbox": [
+        483,
+        208,
+        25,
+        25
+      ],
+      "alt": "Fragmented information icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "84581c94-4d35-4b8c-aa20-5e42b8932d33",
+        "contentType": "image/svg+xml",
+        "byteLength": 269
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zm9sza1w",
+      "id": "14",
+      "bbox": [
+        518,
+        207,
+        324,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Fragmented information",
+      "textPreview": "Fragmented information",
+      "resolvedFontSize": 13.71,
+      "resolvedTextStyle": {
+        "fontSize": 13.71,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Fragmented information"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Fragmented information",
+          "resolvedTextStyle": {
+            "fontSize": 13.71,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Fragmented information",
+              "fontSize": 13.71,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/el0rq50b",
+      "id": "15",
+      "bbox": [
+        518,
+        225,
+        324,
+        35
+      ],
+      "geometry": "rect",
+      "text": "Current conditions, forecasts, map layers and emergency alerts often appear in separate applications.",
+      "textPreview": "Current conditions, forecasts, map layers and emergency alerts often appear in separate applications.",
+      "resolvedFontSize": 10.6,
+      "resolvedTextStyle": {
+        "fontSize": 10.6,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Current conditions, forecasts, map layers and emergency alerts"
+          },
+          {
+            "index": 2,
+            "text": "often appear in separate applications."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Current conditions, forecasts, map layers and emergency alerts often appear in separate applications.",
+          "resolvedTextStyle": {
+            "fontSize": 10.6,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Current conditions, forecasts, map layers and emergency alerts often appear in separate applications.",
+              "fontSize": 10.6,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/up0zyhkz",
+      "id": "16",
+      "bbox": [
+        483,
+        261,
+        25,
+        25
+      ],
+      "alt": "Difficult interpretation icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "4874fb6a-4089-44fb-8bbd-f7a642ff7e26",
+        "contentType": "image/svg+xml",
+        "byteLength": 858
+      }
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ni9sfi1",
+      "id": "17",
+      "bbox": [
+        518,
+        260,
+        324,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Difficult interpretation",
+      "textPreview": "Difficult interpretation",
+      "resolvedFontSize": 13.71,
+      "resolvedTextStyle": {
+        "fontSize": 13.71,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Difficult interpretation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Difficult interpretation",
+          "resolvedTextStyle": {
+            "fontSize": 13.71,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Difficult interpretation",
+              "fontSize": 13.71,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jidsbu10",
+      "id": "18",
+      "bbox": [
+        518,
+        278,
+        324,
+        35
+      ],
+      "geometry": "rect",
+      "text": "Technical maps, measurements and scientific terms can be difficult for ordinary users to understand.",
+      "textPreview": "Technical maps, measurements and scientific terms can be difficult for ordinary users to understand.",
+      "resolvedFontSize": 10.6,
+      "resolvedTextStyle": {
+        "fontSize": 10.6,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Technical maps, measurements and scientific terms can be"
+          },
+          {
+            "index": 2,
+            "text": "difficult for ordinary users to understand."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Technical maps, measurements and scientific terms can be difficult for ordinary users to understand.",
+          "resolvedTextStyle": {
+            "fontSize": 10.6,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Technical maps, measurements and scientific terms can be difficult for ordinary users to understand.",
+              "fontSize": 10.6,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/1ovi5g3u",
+      "id": "19",
+      "bbox": [
+        483,
+        314,
+        25,
+        25
+      ],
+      "alt": "Static interaction icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "0c382dde-85a5-4c5e-8f0c-c8f2228a67d9",
+        "contentType": "image/svg+xml",
+        "byteLength": 290
+      }
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udovatkn",
+      "id": "20",
+      "bbox": [
+        518,
+        313,
+        324,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Static interaction",
+      "textPreview": "Static interaction",
+      "resolvedFontSize": 13.71,
+      "resolvedTextStyle": {
+        "fontSize": 13.71,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Static interaction"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Static interaction",
+          "resolvedTextStyle": {
+            "fontSize": 13.71,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Static interaction",
+              "fontSize": 13.71,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vexc3yl8",
+      "id": "21",
+      "bbox": [
+        518,
+        331,
+        324,
+        35
+      ],
+      "geometry": "rect",
+      "text": "Traditional applications show fixed results and provide limited support for follow-up questions.",
+      "textPreview": "Traditional applications show fixed results and provide limited support for follow-up questions.",
+      "resolvedFontSize": 10.6,
+      "resolvedTextStyle": {
+        "fontSize": 10.6,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Traditional applications show fixed results and provide limited"
+          },
+          {
+            "index": 2,
+            "text": "support for follow-up questions."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Traditional applications show fixed results and provide limited support for follow-up questions.",
+          "resolvedTextStyle": {
+            "fontSize": 10.6,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Traditional applications show fixed results and provide limited support for follow-up questions.",
+              "fontSize": 10.6,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ni90n6ds",
+      "id": "22",
+      "bbox": [
+        483,
+        367,
+        25,
+        25
+      ],
+      "alt": "Limited hands-free access icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "f2704803-6a41-4aab-b3d2-5ed145766332",
+        "contentType": "image/svg+xml",
+        "byteLength": 441
+      }
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgfe583e",
+      "id": "23",
+      "bbox": [
+        518,
+        366,
+        324,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Limited hands-free access",
+      "textPreview": "Limited hands-free access",
+      "resolvedFontSize": 13.71,
+      "resolvedTextStyle": {
+        "fontSize": 13.71,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Limited hands-free access"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Limited hands-free access",
+          "resolvedTextStyle": {
+            "fontSize": 13.71,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Limited hands-free access",
+              "fontSize": 13.71,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2h8vedkj",
+      "id": "24",
+      "bbox": [
+        518,
+        384,
+        324,
+        35
+      ],
+      "geometry": "rect",
+      "text": "Manual navigation makes weather information less convenient while travelling, working or handling urgent situations.",
+      "textPreview": "Manual navigation makes weather information less convenient while travelling, working or handling urgent situations.",
+      "resolvedFontSize": 10.6,
+      "resolvedTextStyle": {
+        "fontSize": 10.6,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Manual navigation makes weather information less convenient"
+          },
+          {
+            "index": 2,
+            "text": "while travelling, working or handling urgent situations."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Manual navigation makes weather information less convenient while travelling, working or handling urgent situations.",
+          "resolvedTextStyle": {
+            "fontSize": 10.6,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Manual navigation makes weather information less convenient while travelling, working or handling urgent situations.",
+              "fontSize": 10.6,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/0fihsbu1",
+      "id": "25",
+      "bbox": [
+        483,
+        420,
+        25,
+        25
+      ],
+      "alt": "Weak decision support icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "cb9f09ed-2ebb-493f-a295-5c7c42eab836",
+        "contentType": "image/svg+xml",
+        "byteLength": 284
+      }
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4jqdgn2p",
+      "id": "26",
+      "bbox": [
+        518,
+        419,
+        324,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Weak decision support",
+      "textPreview": "Weak decision support",
+      "resolvedFontSize": 13.71,
+      "resolvedTextStyle": {
+        "fontSize": 13.71,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Weak decision support"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Weak decision support",
+          "resolvedTextStyle": {
+            "fontSize": 13.71,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Weak decision support",
+              "fontSize": 13.71,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkze9s3a",
+      "id": "27",
+      "bbox": [
+        518,
+        437,
+        324,
+        35
+      ],
+      "geometry": "rect",
+      "text": "Generic forecasts do not explain how weather may affect travel, outdoor work, events or personal safety.",
+      "textPreview": "Generic forecasts do not explain how weather may affect travel, outdoor work, events or personal safety.",
+      "resolvedFontSize": 10.6,
+      "resolvedTextStyle": {
+        "fontSize": 10.6,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Generic forecasts do not explain how weather may affect travel,"
+          },
+          {
+            "index": 2,
+            "text": "outdoor work, events or personal safety."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Generic forecasts do not explain how weather may affect travel, outdoor work, events or personal safety.",
+          "resolvedTextStyle": {
+            "fontSize": 10.6,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Generic forecasts do not explain how weather may affect travel, outdoor work, events or personal safety.",
+              "fontSize": 10.6,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yl4v29kf",
+      "id": "28",
+      "bbox": [
+        886,
+        164,
+        325,
+        26
+      ],
+      "geometry": "rect",
+      "text": "STAKEHOLDERS",
+      "textPreview": "STAKEHOLDERS",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#376A96",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "STAKEHOLDERS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "STAKEHOLDERS",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#376A96",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "STAKEHOLDERS",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#376A96",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmdcvel0",
+      "id": "29",
+      "bbox": [
+        886,
+        194,
+        74,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#376A96",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/2hwfixs3",
+      "id": "30",
+      "bbox": [
+        886,
+        207,
+        22,
+        22
+      ],
+      "alt": "Weather agencies icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "86026cad-c582-4df9-92dc-969c6b847325",
+        "contentType": "image/svg+xml",
+        "byteLength": 387
+      }
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rupobq9",
+      "id": "31",
+      "bbox": [
+        915,
+        208,
+        125,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Weather agencies",
+      "textPreview": "Weather agencies",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Weather agencies"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Weather agencies",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Weather agencies",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/4jexk7at",
+      "id": "32",
+      "bbox": [
+        1049,
+        207,
+        22,
+        22
+      ],
+      "alt": "Disaster authorities icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "2e164b51-4078-4733-b475-0a5e7abcb9b3",
+        "contentType": "image/svg+xml",
+        "byteLength": 397
+      }
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ypc7m183",
+      "id": "33",
+      "bbox": [
+        1078,
+        208,
+        125,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Disaster authorities",
+      "textPreview": "Disaster authorities",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Disaster authorities"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Disaster authorities",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Disaster authorities",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/utcfuxsr",
+      "id": "34",
+      "bbox": [
+        886,
+        241,
+        22,
+        22
+      ],
+      "alt": "Local government icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "8753dff1-fe14-4010-a241-12710001c1de",
+        "contentType": "image/svg+xml",
+        "byteLength": 397
+      }
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8fepsvq5",
+      "id": "35",
+      "bbox": [
+        915,
+        242,
+        125,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Local government",
+      "textPreview": "Local government",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Local government"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Local government",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Local government",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/gfuxgnax",
+      "id": "36",
+      "bbox": [
+        1049,
+        241,
+        22,
+        22
+      ],
+      "alt": "Researchers and developers icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "745832a0-07e3-4709-bbd2-ced862260874",
+        "contentType": "image/svg+xml",
+        "byteLength": 256
+      }
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdw7ql8f",
+      "id": "37",
+      "bbox": [
+        1078,
+        242,
+        125,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Researchers and developers",
+      "textPreview": "Researchers and developers",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Researchers and"
+          },
+          {
+            "index": 2,
+            "text": "developers"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Researchers and developers",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Researchers and developers",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6pcvqdsv",
+      "id": "38",
+      "bbox": [
+        886,
+        275,
+        22,
+        22
+      ],
+      "alt": "Community groups icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "6a9e2127-8702-47b1-b45b-bad88cd25a06",
+        "contentType": "image/svg+xml",
+        "byteLength": 393
+      }
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ojapgrq1",
+      "id": "39",
+      "bbox": [
+        915,
+        276,
+        125,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Community groups",
+      "textPreview": "Community groups",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Community groups"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Community groups",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Community groups",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfi9ozap",
+      "id": "40",
+      "bbox": [
+        886,
+        326,
+        325,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgrax4ba",
+      "id": "41",
+      "bbox": [
+        886,
+        344,
+        325,
+        26
+      ],
+      "geometry": "rect",
+      "text": "TARGET USERS",
+      "textPreview": "TARGET USERS",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#258B88",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TARGET USERS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TARGET USERS",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#258B88",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TARGET USERS",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#258B88",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6d0rmpsj",
+      "id": "42",
+      "bbox": [
+        886,
+        374,
+        64,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#258B88",
+      "lineWidth": 0
+    },
+    {
+      "order": 43,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/k3etojeh",
+      "id": "43",
+      "bbox": [
+        886,
+        384,
+        22,
+        22
+      ],
+      "alt": "General public icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "4df58024-b034-4f5f-8542-9b34a80a878f",
+        "contentType": "image/svg+xml",
+        "byteLength": 341
+      }
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kby9kzad",
+      "id": "44",
+      "bbox": [
+        915,
+        385,
+        125,
+        26
+      ],
+      "geometry": "rect",
+      "text": "General public",
+      "textPreview": "General public",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "General public"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "General public",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "General public",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 45,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/adcbi9wf",
+      "id": "45",
+      "bbox": [
+        1049,
+        384,
+        22,
+        22
+      ],
+      "alt": "Farmers and outdoor workers icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "1c3d90af-afe5-403c-9802-5a1008e08f43",
+        "contentType": "image/svg+xml",
+        "byteLength": 846
+      }
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9gripsn",
+      "id": "46",
+      "bbox": [
+        1078,
+        385,
+        125,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Farmers and outdoor workers",
+      "textPreview": "Farmers and outdoor workers",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Farmers and outdoor"
+          },
+          {
+            "index": 2,
+            "text": "workers"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Farmers and outdoor workers",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Farmers and outdoor workers",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 47,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/wfutkjel",
+      "id": "47",
+      "bbox": [
+        886,
+        418,
+        22,
+        22
+      ],
+      "alt": "Coastal communities icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "991171ec-66c4-4a80-9a0d-ead542fc0325",
+        "contentType": "image/svg+xml",
+        "byteLength": 479
+      }
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7y9gfah",
+      "id": "48",
+      "bbox": [
+        915,
+        419,
+        125,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Coastal communities",
+      "textPreview": "Coastal communities",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Coastal communities"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Coastal communities",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Coastal communities",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 49,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/m9sbe9wj",
+      "id": "49",
+      "bbox": [
+        1049,
+        418,
+        22,
+        22
+      ],
+      "alt": "Travellers and commuters icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "91b7c5d8-c3d1-481a-adcd-b963773ff305",
+        "contentType": "image/svg+xml",
+        "byteLength": 394
+      }
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi5szado",
+      "id": "50",
+      "bbox": [
+        1078,
+        419,
+        125,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Travellers and commuters",
+      "textPreview": "Travellers and commuters",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Travellers and"
+          },
+          {
+            "index": 2,
+            "text": "commuters"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Travellers and commuters",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Travellers and commuters",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 51,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/t4fy1gra",
+      "id": "51",
+      "bbox": [
+        886,
+        452,
+        22,
+        22
+      ],
+      "alt": "Older and voice-first users icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "ea3e666c-88fa-4976-9b7e-95f9ae0eea02",
+        "contentType": "image/svg+xml",
+        "byteLength": 352
+      }
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4na1kvu",
+      "id": "52",
+      "bbox": [
+        915,
+        453,
+        221,
+        26
+      ],
+      "geometry": "rect",
+      "text": "Older and voice-first users",
+      "textPreview": "Older and voice-first users",
+      "resolvedFontSize": 10.2,
+      "resolvedTextStyle": {
+        "fontSize": 10.2,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Older and voice-first users"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Older and voice-first users",
+          "resolvedTextStyle": {
+            "fontSize": 10.2,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Older and voice-first users",
+              "fontSize": 10.2,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0jetsfe9",
+      "id": "53",
+      "bbox": [
+        62,
+        492,
+        1160,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6ps3ad0",
+      "id": "54",
+      "bbox": [
+        62,
+        503,
+        1158,
+        28
+      ],
+      "geometry": "rect",
+      "text": "KEY CHALLENGES",
+      "textPreview": "KEY CHALLENGES",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "KEY CHALLENGES"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "KEY CHALLENGES",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "KEY CHALLENGES",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 55,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/18zi5g7m",
+      "id": "55",
+      "bbox": [
+        62,
+        538,
+        25,
+        25
+      ],
+      "alt": "RELIABLE DATA INTEGRATION icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "1a56052d-377b-4e03-8503-a472a388868a",
+        "contentType": "image/svg+xml",
+        "byteLength": 291
+      }
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/987a5kvq",
+      "id": "56",
+      "bbox": [
+        62,
+        565,
+        40,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#376A96",
+      "lineWidth": 0
+    },
+    {
+      "order": 57,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ytwful",
+      "id": "57",
+      "bbox": [
+        62,
+        574,
+        210,
+        38
+      ],
+      "geometry": "rect",
+      "text": "RELIABLE DATA\nINTEGRATION",
+      "textPreview": "RELIABLE DATA | INTEGRATION",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "RELIABLE DATA"
+          },
+          {
+            "index": 2,
+            "text": "INTEGRATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "RELIABLE DATA",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "RELIABLE DATA",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "INTEGRATION",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTEGRATION",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 58,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vapc7udw",
+      "id": "58",
+      "bbox": [
+        62,
+        616,
+        210,
+        68
+      ],
+      "geometry": "rect",
+      "text": "Weather APIs, geospatial services and official alert feeds may use different formats, update intervals and levels of accuracy.",
+      "textPreview": "Weather APIs, geospatial services and official alert feeds may use different formats, update intervals and levels of accuracy.",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Weather APIs, geospatial services"
+          },
+          {
+            "index": 2,
+            "text": "and official alert feeds may use"
+          },
+          {
+            "index": 3,
+            "text": "different formats, update intervals"
+          },
+          {
+            "index": 4,
+            "text": "and levels of accuracy."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Weather APIs, geospatial services and official alert feeds may use different formats, update intervals and levels of accuracy.",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Weather APIs, geospatial services and official alert feeds may use different formats, update intervals and levels of accuracy.",
+              "fontSize": 11.51,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 59,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9gbypcb",
+      "id": "59",
+      "bbox": [
+        289,
+        546,
+        1,
+        137
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 60,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/x8nex8j6",
+      "id": "60",
+      "bbox": [
+        302,
+        538,
+        25,
+        25
+      ],
+      "alt": "AGENT DECISION RELIABILITY icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "4691ff66-5397-474c-85f4-8d1e0b8a9729",
+        "contentType": "image/svg+xml",
+        "byteLength": 330
+      }
+    },
+    {
+      "order": 61,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76twzyx4",
+      "id": "61",
+      "bbox": [
+        302,
+        565,
+        40,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#258B88",
+      "lineWidth": 0
+    },
+    {
+      "order": 62,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72d83ep",
+      "id": "62",
+      "bbox": [
+        302,
+        574,
+        210,
+        38
+      ],
+      "geometry": "rect",
+      "text": "AGENT DECISION\nRELIABILITY",
+      "textPreview": "AGENT DECISION | RELIABILITY",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AGENT DECISION"
+          },
+          {
+            "index": 2,
+            "text": "RELIABILITY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AGENT DECISION",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AGENT DECISION",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "RELIABILITY",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "RELIABILITY",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 63,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8be18fa",
+      "id": "63",
+      "bbox": [
+        302,
+        616,
+        210,
+        68
+      ],
+      "geometry": "rect",
+      "text": "The agent must select the correct tools, interpret results accurately and avoid generating unsupported weather information.",
+      "textPreview": "The agent must select the correct tools, interpret results accurately and avoid generating unsupported weather information.",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The agent must select the correct"
+          },
+          {
+            "index": 2,
+            "text": "tools, interpret results accurately and"
+          },
+          {
+            "index": 3,
+            "text": "avoid generating unsupported"
+          },
+          {
+            "index": 4,
+            "text": "weather information."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The agent must select the correct tools, interpret results accurately and avoid generating unsupported weather information.",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The agent must select the correct tools, interpret results accurately and avoid generating unsupported weather information.",
+              "fontSize": 11.51,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 64,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i10v29gn",
+      "id": "64",
+      "bbox": [
+        529,
+        546,
+        1,
+        137
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 65,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/kvyx8nih",
+      "id": "65",
+      "bbox": [
+        542,
+        538,
+        25,
+        25
+      ],
+      "alt": "LOCATION AND TIME AMBIGUITY icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "988802b3-d744-476a-a850-d3c6d0681ff7",
+        "contentType": "image/svg+xml",
+        "byteLength": 325
+      }
+    },
+    {
+      "order": 66,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3id4jet",
+      "id": "66",
+      "bbox": [
+        542,
+        565,
+        40,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#C95C57",
+      "lineWidth": 0
+    },
+    {
+      "order": 67,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54bexofy",
+      "id": "67",
+      "bbox": [
+        542,
+        574,
+        210,
+        38
+      ],
+      "geometry": "rect",
+      "text": "LOCATION AND TIME\nAMBIGUITY",
+      "textPreview": "LOCATION AND TIME | AMBIGUITY",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LOCATION AND TIME"
+          },
+          {
+            "index": 2,
+            "text": "AMBIGUITY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LOCATION AND TIME",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LOCATION AND TIME",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "AMBIGUITY",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AMBIGUITY",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 68,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4fedwr",
+      "id": "68",
+      "bbox": [
+        542,
+        616,
+        210,
+        68
+      ],
+      "geometry": "rect",
+      "text": "Incomplete place names and phrases such as “tomorrow evening” must be resolved before retrieving data.",
+      "textPreview": "Incomplete place names and phrases such as “tomorrow evening” must be resolved before retrieving data.",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Incomplete place names and phrases"
+          },
+          {
+            "index": 2,
+            "text": "such as “tomorrow evening” must be"
+          },
+          {
+            "index": 3,
+            "text": "resolved before retrieving data."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Incomplete place names and phrases such as “tomorrow evening” must be resolved before retrieving data.",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Incomplete place names and phrases such as “tomorrow evening” must be resolved before retrieving data.",
+              "fontSize": 11.51,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 69,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ydw7ixc",
+      "id": "69",
+      "bbox": [
+        769,
+        546,
+        1,
+        137
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 70,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/q5sb6pgb",
+      "id": "70",
+      "bbox": [
+        782,
+        538,
+        25,
+        25
+      ],
+      "alt": "VERIFIED HAZARD INFORMATION icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "7e3bb2fb-fc8e-43b2-8608-90dc4668d74d",
+        "contentType": "image/svg+xml",
+        "byteLength": 307
+      }
+    },
+    {
+      "order": 71,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cr6h47y9",
+      "id": "71",
+      "bbox": [
+        782,
+        565,
+        40,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#376A96",
+      "lineWidth": 0
+    },
+    {
+      "order": 72,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bqxgv2ho",
+      "id": "72",
+      "bbox": [
+        782,
+        574,
+        210,
+        38
+      ],
+      "geometry": "rect",
+      "text": "VERIFIED HAZARD\nINFORMATION",
+      "textPreview": "VERIFIED HAZARD | INFORMATION",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "VERIFIED HAZARD"
+          },
+          {
+            "index": 2,
+            "text": "INFORMATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "VERIFIED HAZARD",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "VERIFIED HAZARD",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "INFORMATION",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INFORMATION",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 73,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpoz2xg3",
+      "id": "73",
+      "bbox": [
+        782,
+        616,
+        210,
+        68
+      ],
+      "geometry": "rect",
+      "text": "Heatwave assessments must follow defined thresholds, while tsunami warnings must come from authorised sources.",
+      "textPreview": "Heatwave assessments must follow defined thresholds, while tsunami warnings must come from authorised sources.",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Heatwave assessments must follow"
+          },
+          {
+            "index": 2,
+            "text": "defined thresholds, while tsunami"
+          },
+          {
+            "index": 3,
+            "text": "warnings must come from authorised"
+          },
+          {
+            "index": 4,
+            "text": "sources."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Heatwave assessments must follow defined thresholds, while tsunami warnings must come from authorised sources.",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Heatwave assessments must follow defined thresholds, while tsunami warnings must come from authorised sources.",
+              "fontSize": 11.51,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 74,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pofytczi",
+      "id": "74",
+      "bbox": [
+        1009,
+        546,
+        1,
+        137
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9DDE1",
+      "lineWidth": 0
+    },
+    {
+      "order": 75,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/zalc3ehs",
+      "id": "75",
+      "bbox": [
+        1022,
+        538,
+        25,
+        25
+      ],
+      "alt": "VOICE AND RESPONSE QUALITY icon",
+      "contentType": "image/svg+xml",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "1240a879-8de7-4599-a694-7cc39e538334",
+        "contentType": "image/svg+xml",
+        "byteLength": 299
+      }
+    },
+    {
+      "order": 76,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32dgr2hc",
+      "id": "76",
+      "bbox": [
+        1022,
+        565,
+        40,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#258B88",
+      "lineWidth": 0
+    },
+    {
+      "order": 77,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/214zyx0r",
+      "id": "77",
+      "bbox": [
+        1022,
+        574,
+        210,
+        38
+      ],
+      "geometry": "rect",
+      "text": "VOICE AND RESPONSE\nQUALITY",
+      "textPreview": "VOICE AND RESPONSE | QUALITY",
+      "resolvedFontSize": 13.51,
+      "resolvedTextStyle": {
+        "fontSize": 13.51,
+        "typeface": "Arial",
+        "color": "#292D32",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "VOICE AND RESPONSE"
+          },
+          {
+            "index": 2,
+            "text": "QUALITY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "VOICE AND RESPONSE",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "VOICE AND RESPONSE",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "QUALITY",
+          "resolvedTextStyle": {
+            "fontSize": 13.51,
+            "typeface": "Arial",
+            "color": "#292D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QUALITY",
+              "fontSize": 13.51,
+              "typeface": "Arial",
+              "color": "#292D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 78,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kzi5wzm",
+      "id": "78",
+      "bbox": [
+        1022,
+        616,
+        210,
+        68
+      ],
+      "geometry": "rect",
+      "text": "Speech recognition and spoken responses must remain understandable across accents, background noise and unstable connectivity.",
+      "textPreview": "Speech recognition and spoken responses must remain understandable across accents, background noise and unstable connectivity.",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Arial",
+        "color": "#666A70",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Speech recognition and spoken"
+          },
+          {
+            "index": 2,
+            "text": "responses must remain"
+          },
+          {
+            "index": 3,
+            "text": "understandable across accents,"
+          },
+          {
+            "index": 4,
+            "text": "background noise and unstable"
+          },
+          {
+            "index": 5,
+            "text": "connectivity."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Speech recognition and spoken responses must remain understandable across accents, background noise and unstable connectivity.",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Arial",
+            "color": "#666A70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Speech recognition and spoken responses must remain understandable across accents, background noise and unstable connectivity.",
+              "fontSize": 11.51,
+              "typeface": "Arial",
+              "color": "#666A70",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
